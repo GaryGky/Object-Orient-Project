@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1444f85-cbb6-494b-be5c-7e4174d7c8cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../O9/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O9/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O9/src/MyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O9/src/MyPathContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project10/generator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/Project11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/MyRailwaySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/pro/MyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/pro/MyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/pro/MyPathContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/proo/GraphHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/proo/MyGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/prooo/LeaTicGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/prooo/LeaTranGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/prooo/LeaUpsetGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/prooo/TransHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/MyUmlInteraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/UmlContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/helper/AssociateHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/helper/AttributeHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/helper/InterfaceHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/helper/OprationHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/myuml/MyUmlClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/myuml/MyUmlInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_49.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javaparser_javaparser_core_3_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javaparser_javaparser_core_serialization_3_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_json_javax_json_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_bcel_bcel_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/statistic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/umlclass/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/umlclass/classorinterface/MyUmlClassOrInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/umlsequence/MySeqInterAct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/umlsequence/MyUmlLifeLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/umlsequence/SeqQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/umlstate/MyFinalState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/umlstate/MyPseudoState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/umlstate/MyUmlState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/umlstate/StateMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/umlstate/StateQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/InvalidRemoveException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/QueryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/SchedulableCarrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/UnsortedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/observer/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/observer/Bull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/observer/OilFutures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/observer/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Observator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Rate/ExportCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Rate/ImportCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Rate/ObsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Rate/RmbRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Ring/Ring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Ring/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Ring/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Ring/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/abstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/color/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/color/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/color/Green.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/color/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/Rectangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/ShapeCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Deposit/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Deposit/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Deposit/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/SaleTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/SaleTicket1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/ticket2/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/ticket2/SaleTicket2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/ticket2/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/Dispatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/Elevator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/ElevatorConst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/MainDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/OnOff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/request/InputHandle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/request/ReqQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/request/SingleRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_14_guidebook/公测中公开数据点的mdj文件/middle_1.mdj" beforeDir="false" afterPath="$PROJECT_DIR$/homework_14_guidebook/公测中公开数据点的mdj文件/middle_1.mdj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_14_guidebook/公测中公开数据点的mdj文件/middle_3.mdj" beforeDir="false" afterPath="$PROJECT_DIR$/homework_14_guidebook/公测中公开数据点的mdj文件/middle_3.mdj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_14_guidebook/面向对象UML系列第二次作业指导书.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework_14_guidebook/面向对象UML系列第二次作业指导书.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/Source.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/Targetable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/WrapperTest/SourceSub2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/WrapperTest/Sourceable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/WrapperTest/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/WrapperTest/WrapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/BuilderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Burger/Burger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Burger/NonVegBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Burger/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Burger/vegBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/ColdDrink/Bottle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/ColdDrink/Coke.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/ColdDrink/ColdDrink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/ColdDrink/Pepsi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Meal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/MealBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/PackUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Decorate/Decorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Decorate/Source.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Decorate/Sourceable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Decorate/TestDeco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/Sender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/factoryMail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/factorySms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/mail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/sms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/PageReplace/FIFO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/PageReplace/InputParse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/PageReplace/LRU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/PageReplace/elmForLru.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/SinglePattern/SingleObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/SinglePattern/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/SinglePattern/testSingle.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/homework_14_guidebook/uml-homework-2-opensource/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Project14" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/umlstate/MyFinalState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <element signature="method#MyFinalState#0;class#MyFinalState#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/umlstate/StateMachine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#StateMachine#0;class#StateMachine#0" />
+                <element signature="method#addState#0;class#StateMachine#0" />
+                <element signature="method#addStartState#0;class#StateMachine#0" />
+                <element signature="method#addFinalState#0;class#StateMachine#0" />
+                <element signature="method#addName2Num#0;class#StateMachine#0" />
+                <element signature="method#addTransition#0;class#StateMachine#0" />
+                <element signature="method#getMyUmlState#0;class#StateMachine#0" />
+                <element signature="method#setSubState#0;class#StateMachine#0" />
+                <element signature="method#bfs#0;class#StateMachine#0" />
+                <element signature="method#getSubsequentStateCount#0;class#StateMachine#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/umlstate/MyUmlState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="method#MyUmlState#0;class#MyUmlState#0" />
+                <element signature="method#addSubState#0;class#MyUmlState#0" />
+                <element signature="method#addSubState#1;class#MyUmlState#0" />
+                <element signature="method#getSubsequentStateCount#0;class#MyUmlState#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/umlclass/Check.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1139">
+              <caret line="185" column="4" selection-start-line="185" selection-start-column="4" selection-end-line="185" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Check#0;class#Check#0" />
+                <element signature="method#checkForUml002#0;class#Check#0" />
+                <element signature="method#addToAcl#0;class#Check#0" />
+                <element signature="method#checkdig#0;class#Check#0" />
+                <element signature="method#loop#0;class#Check#0" />
+                <element signature="method#tarjan#0;class#Check#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>f3</find>
+      <find>Sys</find>
+      <find>Sys.</find>
+      <find>System</find>
+      <find>AAAAAAFrF706lgxJYfQ=</find>
+      <find>true</find>
+      <find>Class9</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/helper/AssociateHelper.java" />
+        <option value="$PROJECT_DIR$/src/helper/AttributeHelper.java" />
+        <option value="$PROJECT_DIR$/src/helper/InterfaceHelper.java" />
+        <option value="$PROJECT_DIR$/src/helper/OprationHelper.java" />
+        <option value="$PROJECT_DIR$/src/myuml/MyUmlInterface.java" />
+        <option value="$PROJECT_DIR$/src/myuml/MyUmlClass.java" />
+        <option value="$PROJECT_DIR$/src/sequence/MySeqInterAct.java" />
+        <option value="$PROJECT_DIR$/src/sequence/MyUmlLifeLine.java" />
+        <option value="$PROJECT_DIR$/src/state/MyUmlState.java" />
+        <option value="$PROJECT_DIR$/src/UmlContainer.java" />
+        <option value="$PROJECT_DIR$/src/state/StateMachine.java" />
+        <option value="$PROJECT_DIR$/src/myuml/ClassQuery.java" />
+        <option value="$PROJECT_DIR$/src/umlsequence/MyUmlLifeLine.java" />
+        <option value="$PROJECT_DIR$/src/umlclass/helper/AttributeHelper.java" />
+        <option value="$PROJECT_DIR$/src/umlclass/MyUmlClass.java" />
+        <option value="$PROJECT_DIR$/src/umlclass/MyUmlClassOrInterface.java" />
+        <option value="$PROJECT_DIR$/src/input" />
+        <option value="$PROJECT_DIR$/src/umlclass/helper/AssociateHelper.java" />
+        <option value="$PROJECT_DIR$/src/umlclass/helper/OprationHelper.java" />
+        <option value="$PROJECT_DIR$/src/umlclass/MyUmlInterface.java" />
+        <option value="$PROJECT_DIR$/src/umlclass/classorinterface/InterfaceException.java" />
+        <option value="$PROJECT_DIR$/src/umlclass/classorinterface/MyUmlClassOrInterface.java" />
+        <option value="$PROJECT_DIR$/src/MyUmlInteraction.java" />
+        <option value="$PROJECT_DIR$/src/umlstate/MyPseudo.java" />
+        <option value="$PROJECT_DIR$/src/umlclass/Check.java" />
+        <option value="$PROJECT_DIR$/src/myout.txt" />
+        <option value="$PROJECT_DIR$/src/umlstate/AbstractState.java" />
+        <option value="$PROJECT_DIR$/src/umlstate/MyUmlState.java" />
+        <option value="$PROJECT_DIR$/src/umlstate/MyPseudoState.java" />
+        <option value="$PROJECT_DIR$/src/umlstate/MyFinalState.java" />
+        <option value="$PROJECT_DIR$/src/umlstate/MyTrigger.java" />
+        <option value="$PROJECT_DIR$/src/umlstate/MyTransition.java" />
+        <option value="$PROJECT_DIR$/src/umlstate/StateQuery.java" />
+        <option value="$PROJECT_DIR$/src/umlstate/StateMachine.java" />
+        <option value="$PROJECT_DIR$/src/umlclass/helper/InterfaceHelper.java" />
+        <option value="$PROJECT_DIR$/src/umlclass/classorinterface/MyUmlClass.java" />
+        <option value="$PROJECT_DIR$/src/umlclass/classorinterface/MyUmlInterface.java" />
+        <option value="$PROJECT_DIR$/src/input.txt" />
+        <option value="$PROJECT_DIR$/src/umlclass/ClassQuery.java" />
+        <option value="$PROJECT_DIR$/src/umlsequence/MySeqInterAct.java" />
+        <option value="$PROJECT_DIR$/src/umlsequence/SeqQuery.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="273" />
+    <option name="y" value="228" />
+    <option name="width" value="741" />
+    <option name="height" value="579" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568214100695" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../blogs/最后一次博客作业" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Project14" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1444f85-cbb6-494b-be5c-7e4174d7c8cf" name="Default Changelist" comment="" />
+      <created>1560475385815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560475385815</updated>
+      <workItem from="1560475390657" duration="1597000" />
+      <workItem from="1560560902374" duration="2956000" />
+      <workItem from="1560567680226" duration="12252000" />
+      <workItem from="1560588490304" duration="4219000" />
+      <workItem from="1560674985236" duration="19329000" />
+      <workItem from="1560735353748" duration="8817000" />
+      <workItem from="1560747870432" duration="28536000" />
+      <workItem from="1560827014529" duration="1759000" />
+      <workItem from="1560838393949" duration="18328000" />
+      <workItem from="1560914826436" duration="1073000" />
+      <workItem from="1560928565731" duration="7735000" />
+      <workItem from="1560944730486" duration="1131000" />
+      <workItem from="1560946150017" duration="1313000" />
+      <workItem from="1560997791924" duration="158000" />
+      <workItem from="1561031502087" duration="625000" />
+      <workItem from="1561033268043" duration="57000" />
+      <workItem from="1561043621819" duration="8036000" />
+      <workItem from="1561104158830" duration="1008000" />
+      <workItem from="1563784809734" duration="131000" />
+      <workItem from="1564482570481" duration="39000" />
+      <workItem from="1567003376372" duration="1510000" />
+      <workItem from="1568213990082" duration="169000" />
+      <workItem from="1569852317994" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120853000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49874687" visible="true" weight="0.1391375" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5012531" side_tool="true" weight="0.20423108" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32945737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42274052" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.68604654" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.4932845" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.21705426" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="JProfiler" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32945737" />
+      <window_info anchor="bottom" id="Metrics" order="15" weight="0.6744186" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.32945737" />
+      <window_info anchor="bottom" id="Statistic" order="17" show_stripe_button="false" weight="0.9263566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24979658" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3277311" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295362" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/umlclass/ClassQuery.java</url>
+          <line>477</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="myCorI" />
+        <watch expression="dfnMap.entrySet().toArray()[1]" />
+        <watch expression="lowMap.entrySet().toArray()[0]" />
+        <watch expression="dfnMap.entrySet().toArray()[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>lowMap.get(myCorI) ==null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>myUmlInterface.getId2GenNum().keySet()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>myUmlInterface</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>idToMyInterface.get(interefaceId)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parent.getId()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parents.values()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stack.peek()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stack.get(1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.min(lowMap.get(myStart),
+                            lowMap.get(myCorI))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>id2State.get(source)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/output.txt" />
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">umlsequence.MySeqInterAct</node>
+            <node x="" y="">MyUmlInteraction</node>
+            <node x="" y="">umlstate.StateQuery</node>
+            <node x="" y="">umlstate.MyUmlState</node>
+            <node x="" y="">umlclass.helper.AttributeHelper</node>
+            <node x="" y="">umlstate.StateMachine</node>
+            <node x="" y="">umlclass.MyUmlClass</node>
+            <node x="" y="">umlclass.helper.InterfaceHelper</node>
+            <node x="" y="">umlclass.ClassQuery</node>
+            <node x="" y="">umlclass.MyUmlClassOrInterface</node>
+            <node x="" y="">umlclass.helper.OprationHelper</node>
+            <node x="" y="">umlsequence.SeqQuery</node>
+            <node x="" y="">umlclass.Check</node>
+            <node x="" y="">umlclass.MyUmlInterface</node>
+            <node x="" y="">umlsequence.MyUmlLifeLine</node>
+            <node x="" y="">umlclass.helper.AssociateHelper</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.5332688588007739" x="1628.0" y="2535.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/input" />
+    <entry file="jar://$PROJECT_DIR$/../lib/uml-homework-2.1.0-raw-jar-with-dependencies.jar!/com/oocourse/uml2/interact/exceptions/user/UmlRule008Exception.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/uml-homework-2.1.0-raw-jar-with-dependencies.jar!/com/oocourse/uml2/interact/exceptions/user/PreCheckRuleException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/uml-homework-2.1.0-raw-jar-with-dependencies.jar!/com/oocourse/uml2/interact/exceptions/user/UserProcessException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
+          <folding>
+            <element signature="e#1663#1664#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/uml-homework-2.1.0-raw-jar-with-dependencies.jar!/com/oocourse/uml2/interact/AppRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/uml-homework-2.1.0-raw-jar-with-dependencies.jar!/com/oocourse/uml2/interact/common/AttributeClassInformation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlclass/classorinterface/InterfaceException.java" />
+    <entry file="jar://$PROJECT_DIR$/../lib/uml-homework-2.1.0-raw-jar-with-dependencies.jar!/com/oocourse/uml2/models/common/ElementType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/uml-homework-2.1.0-raw-jar-with-dependencies.jar!/com/oocourse/uml2/models/elements/UmlPseudostate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myout.txt" />
+    <entry file="file://$PROJECT_DIR$/P13_test/uml_2_middle_4_stdin_2019_06_18_16_42_38_14257e79b36eb4c733a8cb1b10518a78.txt" />
+    <entry file="file://$PROJECT_DIR$/src/umlstate/MyPseudo.java" />
+    <entry file="file://$PROJECT_DIR$/src/umlstate/AbstractState.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/annotation/ElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P13_test/uml_2_middle_4_stdin_2019_06_18_16_42_38_14257e79b36eb4c733a8cb1b10518a78 (1).txt" />
+    <entry file="file://$PROJECT_DIR$/P13_test/2in.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="4" column="23" selection-end-line="231" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/MyUmlInteraction">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>MyUmlInteraction</OriginalElement>
+          <nodes>
+            <node x="705.6666666666665" y="278.0">umlclass.ClassQuery</node>
+            <node x="20.0" y="0.0">umlclass.Check</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="umlclass.Check" target="umlclass.Check">
+              <point x="-457.33333333333326" y="109.0" />
+              <point x="248.66666666666674" y="238.0" />
+              <point x="0.0" y="238.0" />
+              <point x="0.0" y="109.0" />
+              <point x="-686.0" y="-0.0" />
+            </edge>
+            <edge source="umlclass.ClassQuery" target="umlclass.Check">
+              <point x="114.5" y="-395.0" />
+              <point x="1049.1666666666665" y="258.0" />
+              <point x="1163.3333333333333" y="258.0" />
+              <point x="457.33333333333326" y="109.0" />
+            </edge>
+            <edge source="umlclass.ClassQuery" target="umlclass.ClassQuery">
+              <point x="0.0" y="395.0" />
+              <point x="934.6666666666665" y="1088.0" />
+              <point x="685.6666666666665" y="1088.0" />
+              <point x="685.6666666666665" y="673.0" />
+              <point x="-229.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7146788990825687" x="637.0" y="242.0" />
+          <SelectedNodes>
+            <node>umlclass.ClassQuery</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/umlclass.classorinterface.MyUmlClass">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>umlclass.classorinterface.MyUmlClass</OriginalElement>
+          <nodes>
+            <node x="" y="">umlclass.classorinterface.MyUmlClassOrInterface</node>
+            <node x="" y="">umlsequence.MySeqInterAct</node>
+            <node x="" y="">umlstate.StateQuery</node>
+            <node x="" y="">umlstate.MyUmlState</node>
+            <node x="" y="">umlclass.helper.AttributeHelper</node>
+            <node x="" y="">umlstate.StateMachine</node>
+            <node x="" y="">umlclass.helper.InterfaceHelper</node>
+            <node x="" y="">umlclass.classorinterface.MyUmlInterface</node>
+            <node x="" y="">umlclass.ClassQuery</node>
+            <node x="" y="">umlclass.classorinterface.MyUmlClass</node>
+            <node x="" y="">umlclass.helper.OprationHelper</node>
+            <node x="" y="">umlstate.MyFinalState</node>
+            <node x="" y="">umlsequence.SeqQuery</node>
+            <node x="" y="">umlclass.Check</node>
+            <node x="" y="">umlstate.MyPseudoState</node>
+            <node x="" y="">umlsequence.MyUmlLifeLine</node>
+            <node x="" y="">umlclass.helper.AssociateHelper</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6586445366528354" x="673.0" y="409.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/uml-homework-2.1.0-raw-jar-with-dependencies.jar!/com/oocourse/uml2/models/elements/UmlLifeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="e#4183#4184#0" expanded="true" />
+            <element signature="e#4220#4221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/uml-homework-2.1.0-raw-jar-with-dependencies.jar!/com/oocourse/uml2/models/elements/UmlElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="241" column="19" selection-start-line="241" selection-start-column="19" selection-end-line="241" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/uml-homework-2.1.0-raw-jar-with-dependencies.jar!/com/oocourse/uml2/models/elements/UmlTransition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="979" column="41" lean-forward="true" selection-start-line="979" selection-start-column="41" selection-end-line="979" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlstate/MyTransition.java" />
+    <entry file="file://$PROJECT_DIR$/src/umlstate/MyPseudoState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlstate/StateQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding>
+            <element signature="method#setUpState#0;class#StateQuery#0" />
+            <element signature="method#setUpTransition#0;class#StateQuery#0" />
+            <element signature="method#getSubsequentStateCount#0;class#StateQuery#0" />
+            <element signature="method#getStateCount#0;class#StateQuery#0" />
+            <element signature="method#getTransitionCount#0;class#StateQuery#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlsequence/MyUmlLifeLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MyUmlLifeLine#0;class#MyUmlLifeLine#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/uml-homework-2.1.0-raw-jar-with-dependencies.jar!/com/oocourse/uml2/interact/format/UmlGeneralInteraction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="87" selection-start-line="7" selection-start-column="87" selection-end-line="7" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/uml-homework-2.1.0-raw-jar-with-dependencies.jar!/com/oocourse/uml2/interact/format/UmlStandardPreCheck.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/input.txt" />
+    <entry file="file://$PROJECT_DIR$/homework_14_guidebook/uml-homework-2-opensource/src/main/java/com/oocourse/uml2/utils/string/AlignedString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlclass/helper/InterfaceHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#InterfaceHelper#0;class#InterfaceHelper#0" />
+            <element signature="method#addIntereface#0;class#InterfaceHelper#0" />
+            <element signature="method#addParentMyInt#0;class#InterfaceHelper#0" />
+            <element signature="method#addRealNum#0;class#InterfaceHelper#0" />
+            <element signature="method#setImplementInterfaceSet#0;class#InterfaceHelper#0" />
+            <element signature="method#setImplementInterfaceList#0;class#InterfaceHelper#0" />
+            <element signature="method#getIntList#0;class#InterfaceHelper#0" />
+            <element signature="e#3392#3393#0" expanded="true" />
+            <element signature="e#3427#3428#0" expanded="true" />
+            <element signature="e#3497#3498#0" expanded="true" />
+            <element signature="e#3534#3535#0" expanded="true" />
+            <element signature="method#getId2RealNum#0;class#InterfaceHelper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlclass/helper/OprationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlclass/classorinterface/MyUmlClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="146" selection-start-line="146" selection-end-line="146" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4007#4214#0" />
+            <element signature="e#4277#4278#0" expanded="true" />
+            <element signature="e#4336#4337#0" expanded="true" />
+            <element signature="e#4467#4468#0" expanded="true" />
+            <element signature="e#4665#4666#0" expanded="true" />
+            <element signature="e#4716#4717#0" expanded="true" />
+            <element signature="e#6869#6870#0" expanded="true" />
+            <element signature="e#6916#6917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlclass/classorinterface/MyUmlClassOrInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlclass/classorinterface/MyUmlInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="method#MyUmlInterface#0;class#MyUmlInterface#0" />
+            <element signature="method#equals#0;class#MyUmlInterface#0" />
+            <element signature="method#getParentsId#0;class#MyUmlInterface#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlclass/helper/AssociateHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#AssociateHelper#0;class#AssociateHelper#0" />
+            <element signature="method#addAssociate#0;class#AssociateHelper#0" />
+            <element signature="method#getAssoList#0;class#AssociateHelper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlclass/helper/AttributeHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#AttributeHelper#0;class#AttributeHelper#0" />
+            <element signature="method#addAttribute#0;class#AttributeHelper#0" />
+            <element signature="method#addAttribute#1;class#AttributeHelper#0" />
+            <element signature="method#setAttrClassMap#0;class#AttributeHelper#0" />
+            <element signature="method#setAttrClassMap#1;class#AttributeHelper#0" />
+            <element signature="method#setInfoList#0;class#AttributeHelper#0" />
+            <element signature="method#setAttrNameToNum#0;class#AttributeHelper#0" />
+            <element signature="method#getInfoList#0;class#AttributeHelper#0" />
+            <element signature="method#getAttrNameToNum#0;class#AttributeHelper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlclass/ClassQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2848#3820#0" />
+            <element signature="e#3830#5717#0" />
+            <element signature="e#5727#6054#0" />
+            <element signature="e#6064#6363#0" />
+            <element signature="e#6373#6631#0" />
+            <element signature="e#6641#7254#0" />
+            <element signature="e#7264#8217#0" />
+            <element signature="e#8227#8862#0" />
+            <element signature="e#8872#9663#0" />
+            <element signature="e#9673#10790#0" />
+            <element signature="e#12244#12406#0" />
+            <element signature="e#12416#13123#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oo_course_2019_17373290_homework_14/src/umlsequence/MySeqInterAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyUmlInteraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getClassOperationCount#0;class#MyUmlInteraction#0" />
+            <element signature="method#getClassAttributeCount#0;class#MyUmlInteraction#0" />
+            <element signature="method#getClassAssociationCount#0;class#MyUmlInteraction#0" />
+            <element signature="method#getClassAssociatedClassList#0;class#MyUmlInteraction#0" />
+            <element signature="method#getClassOperationVisibility#0;class#MyUmlInteraction#0" />
+            <element signature="method#getClassAttributeVisibility#0;class#MyUmlInteraction#0" />
+            <element signature="method#getTopParentClass#0;class#MyUmlInteraction#0" />
+            <element signature="method#getImplementInterfaceList#0;class#MyUmlInteraction#0" />
+            <element signature="method#getInformationNotHidden#0;class#MyUmlInteraction#0" />
+            <element signature="method#getParticipantCount#0;class#MyUmlInteraction#0" />
+            <element signature="method#getMessageCount#0;class#MyUmlInteraction#0" />
+            <element signature="method#getIncomingMessageCount#0;class#MyUmlInteraction#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlsequence/SeqQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="method#SeqQuery#0;class#SeqQuery#0" />
+            <element signature="method#setUpSeq#0;class#SeqQuery#0" />
+            <element signature="method#getParticipantCount#0;class#SeqQuery#0" />
+            <element signature="method#getIncomingMessageCount#0;class#SeqQuery#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlsequence/MySeqInterAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MySeqInterAct#0;class#MySeqInterAct#0" />
+            <element signature="method#addLifeLine#0;class#MySeqInterAct#0" />
+            <element signature="method#addMessage#0;class#MySeqInterAct#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlstate/MyFinalState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="method#MyFinalState#0;class#MyFinalState#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlstate/StateMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#StateMachine#0;class#StateMachine#0" />
+            <element signature="method#addState#0;class#StateMachine#0" />
+            <element signature="method#addStartState#0;class#StateMachine#0" />
+            <element signature="method#addFinalState#0;class#StateMachine#0" />
+            <element signature="method#addName2Num#0;class#StateMachine#0" />
+            <element signature="method#addTransition#0;class#StateMachine#0" />
+            <element signature="method#getMyUmlState#0;class#StateMachine#0" />
+            <element signature="method#setSubState#0;class#StateMachine#0" />
+            <element signature="method#bfs#0;class#StateMachine#0" />
+            <element signature="method#getSubsequentStateCount#0;class#StateMachine#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlstate/MyUmlState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="method#MyUmlState#0;class#MyUmlState#0" />
+            <element signature="method#addSubState#0;class#MyUmlState#0" />
+            <element signature="method#addSubState#1;class#MyUmlState#0" />
+            <element signature="method#getSubsequentStateCount#0;class#MyUmlState#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/umlclass/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="185" column="4" selection-start-line="185" selection-start-column="4" selection-end-line="185" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Check#0;class#Check#0" />
+            <element signature="method#checkForUml002#0;class#Check#0" />
+            <element signature="method#addToAcl#0;class#Check#0" />
+            <element signature="method#checkdig#0;class#Check#0" />
+            <element signature="method#loop#0;class#Check#0" />
+            <element signature="method#tarjan#0;class#Check#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Project14</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:fastjson:1.2.49</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

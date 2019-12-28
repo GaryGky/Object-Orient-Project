@@ -1,0 +1,343 @@
+{"_parent":"AAAAAAFrF+dIlrJ7F9g=","visibility":"public","name":"C1","_type":"UMLClass","_id":"AAAAAAFrF+dIlrJ8tRI="}
+{"_parent":"AAAAAAFrF+dIlrJ8tRI=","visibility":"public","name":"add","_type":"UMLOperation","_id":"AAAAAAFrF+dIl7J9YBs="}
+{"_parent":"AAAAAAFrF+dIl7J9YBs=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIl7J+8RQ=","type":"int","direction":"return"}
+{"_parent":"AAAAAAFrF+dIlrJ8tRI=","visibility":"private","name":"add_","_type":"UMLOperation","_id":"AAAAAAFrF+dIl7J\/meI="}
+{"_parent":"AAAAAAFrF+dIl7J\/meI=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIl7KAk1Y=","type":"int","direction":"return"}
+{"_parent":"AAAAAAFrF+dIlrJ8tRI=","visibility":"package","name":"add__","_type":"UMLOperation","_id":"AAAAAAFrF+dIl7KBGrE="}
+{"_parent":"AAAAAAFrF+dIl7KBGrE=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIl7KCgwA=","type":"int","direction":"return"}
+{"_parent":"AAAAAAFrF+dIlrJ8tRI=","visibility":"protected","name":"sub","_type":"UMLOperation","_id":"AAAAAAFrF+dIl7KDPts="}
+{"_parent":"AAAAAAFrF+dIl7KDPts=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIl7KEaR8=","type":"int","direction":"return"}
+{"_parent":"AAAAAAFrF+dIlrJ8tRI=","visibility":"protected","name":"getM1","_type":"UMLOperation","_id":"AAAAAAFrF+dIl7KFNSk="}
+{"_parent":"AAAAAAFrF+dIl7KFNSk=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIl7KGgxQ=","type":"double","direction":"return"}
+{"_parent":"AAAAAAFrF+dIlrJ8tRI=","name":null,"_type":"UMLInterfaceRealization","_id":"AAAAAAFrF+dIzrMYPXA=","source":"AAAAAAFrF+dIlrJ8tRI=","target":"AAAAAAFrF+dIqbKmPyw="}
+{"_parent":"AAAAAAFrF+dIlrJ8tRI=","visibility":"private","name":"c1m1","_type":"UMLAttribute","_id":"AAAAAAFrF+dIz7MdVKY=","type":"double"}
+{"_parent":"AAAAAAFrF+dIlrJ7F9g=","visibility":"public","name":"C2","_type":"UMLClass","_id":"AAAAAAFrF+dImrKHZWs="}
+{"_parent":"AAAAAAFrF+dImrKHZWs=","name":null,"_type":"UMLInterfaceRealization","_id":"AAAAAAFrF+dIzrMZZXA=","source":"AAAAAAFrF+dImrKHZWs=","target":"AAAAAAFrF+dIqrKpqzM="}
+{"_parent":"AAAAAAFrF+dImrKHZWs=","visibility":"protected","name":"m1","_type":"UMLAttribute","_id":"AAAAAAFrF+dIz7Meidg=","type":"float"}
+{"_parent":"AAAAAAFrF+dImrKHZWs=","visibility":"private","name":"m2","_type":"UMLAttribute","_id":"AAAAAAFrF+dIz7MfrMc=","type":"float"}
+{"_parent":"AAAAAAFrF+dImrKHZWs=","visibility":"package","name":"m3","_type":"UMLAttribute","_id":"AAAAAAFrF+dIz7MgQqQ=","type":"float"}
+{"_parent":"AAAAAAFrF+dImrKHZWs=","visibility":"public","name":"m4","_type":"UMLAttribute","_id":"AAAAAAFrF+dIz7MhN2s=","type":"int"}
+{"_parent":"AAAAAAFrF+dIlrJ7F9g=","visibility":"public","name":"C3","_type":"UMLClass","_id":"AAAAAAFrF+dIoLKI1iY="}
+{"_parent":"AAAAAAFrF+dIoLKI1iY=","visibility":"public","name":"float16Tensor","_type":"UMLOperation","_id":"AAAAAAFrF+dIoLKJLEE="}
+{"_parent":"AAAAAAFrF+dIoLKJLEE=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIoLKKjbI=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIoLKI1iY=","visibility":"public","name":"float32Tensor","_type":"UMLOperation","_id":"AAAAAAFrF+dIoLKLOIs="}
+{"_parent":"AAAAAAFrF+dIoLKLOIs=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIoLKMLvo=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIoLKI1iY=","visibility":"public","name":"floatTensor","_type":"UMLOperation","_id":"AAAAAAFrF+dIoLKNWrc="}
+{"_parent":"AAAAAAFrF+dIoLKNWrc=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIoLKO4Tc=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIoLKI1iY=","visibility":"public","name":"doubleTensor","_type":"UMLOperation","_id":"AAAAAAFrF+dIoLKP9ro="}
+{"_parent":"AAAAAAFrF+dIoLKP9ro=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIoLKQJYw=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIoLKI1iY=","visibility":"public","name":"stack","_type":"UMLOperation","_id":"AAAAAAFrF+dIoLKRfN0="}
+{"_parent":"AAAAAAFrF+dIoLKRfN0=","name":"a","_type":"UMLParameter","_id":"AAAAAAFrF+dIoLKSF5I=","type":"int","direction":"in"}
+{"_parent":"AAAAAAFrF+dIoLKRfN0=","name":"b","_type":"UMLParameter","_id":"AAAAAAFrF+dIoLKT2Rs=","type":"int","direction":"in"}
+{"_parent":"AAAAAAFrF+dIoLKRfN0=","name":"dim","_type":"UMLParameter","_id":"AAAAAAFrF+dIoLKULeA=","type":"int","direction":"in"}
+{"_parent":"AAAAAAFrF+dIoLKRfN0=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIoLKV6J4=","type":"int","direction":"return"}
+{"_parent":"AAAAAAFrF+dIoLKI1iY=","visibility":"public","name":"concat","_type":"UMLOperation","_id":"AAAAAAFrF+dIoLKWxi4="}
+{"_parent":"AAAAAAFrF+dIoLKWxi4=","name":"a","_type":"UMLParameter","_id":"AAAAAAFrF+dIobKX1RI=","type":"float","direction":"in"}
+{"_parent":"AAAAAAFrF+dIoLKWxi4=","name":"b","_type":"UMLParameter","_id":"AAAAAAFrF+dIobKYQ78=","type":"float","direction":"in"}
+{"_parent":"AAAAAAFrF+dIoLKWxi4=","name":"dim","_type":"UMLParameter","_id":"AAAAAAFrF+dIobKZb+o=","type":"int","direction":"in"}
+{"_parent":"AAAAAAFrF+dIoLKWxi4=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIobKayNo=","type":"float","direction":"return"}
+{"_parent":"AAAAAAFrF+dIoLKI1iY=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAFrF+dIzbMP3zs=","source":"AAAAAAFrF+dIoLKI1iY=","target":"AAAAAAFrF+dIlrJ8tRI="}
+{"_parent":"AAAAAAFrF+dIoLKI1iY=","name":null,"_type":"UMLInterfaceRealization","_id":"AAAAAAFrF+dIzrMaiW8=","source":"AAAAAAFrF+dIoLKI1iY=","target":"AAAAAAFrF+dIrLKvaZs="}
+{"_parent":"AAAAAAFrF+dIoLKI1iY=","visibility":"private","name":"c3nb","_type":"UMLAttribute","_id":"AAAAAAFrF+dIz7Mik0s=","type":"boolean"}
+{"_parent":"AAAAAAFrF+dIlrJ7F9g=","visibility":"public","name":"C4","_type":"UMLClass","_id":"AAAAAAFrF+dIo7KbJg8="}
+{"_parent":"AAAAAAFrF+dIo7KbJg8=","visibility":"public","name":"float64Tensor","_type":"UMLOperation","_id":"AAAAAAFrF+dIo7KcEzE="}
+{"_parent":"AAAAAAFrF+dIo7KcEzE=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIo7KdfRY=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIo7KbJg8=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAFrF+dIzbMQCAY=","source":"AAAAAAFrF+dIo7KbJg8=","target":"AAAAAAFrF+dIoLKI1iY="}
+{"_parent":"AAAAAAFrF+dIo7KbJg8=","name":null,"_type":"UMLInterfaceRealization","_id":"AAAAAAFrF+dIzrMbIMo=","source":"AAAAAAFrF+dIo7KbJg8=","target":"AAAAAAFrF+dIrrKytM0="}
+{"_parent":"AAAAAAFrF+dIo7KbJg8=","visibility":"package","name":"a","_type":"UMLAttribute","_id":"AAAAAAFrF+dIz7MjeWs=","type":"int"}
+{"_parent":"AAAAAAFrF+dIo7KbJg8=","visibility":"package","name":"b","_type":"UMLAttribute","_id":"AAAAAAFrF+dIz7MkQlM=","type":"int"}
+{"_parent":"AAAAAAFrF+dIlrJ7F9g=","visibility":"public","name":"C5","_type":"UMLClass","_id":"AAAAAAFrF+dIqLKe870="}
+{"_parent":"AAAAAAFrF+dIqLKe870=","visibility":"public","name":"doubleTensor","_type":"UMLOperation","_id":"AAAAAAFrF+dIqLKflM8="}
+{"_parent":"AAAAAAFrF+dIqLKflM8=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIqLKgRu0=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIqLKe870=","visibility":"package","name":"temp3","_type":"UMLOperation","_id":"AAAAAAFrF+dIqLKhJsM="}
+{"_parent":"AAAAAAFrF+dIqLKhJsM=","name":"a","_type":"UMLParameter","_id":"AAAAAAFrF+dIqLKilUk=","type":"int","direction":"in"}
+{"_parent":"AAAAAAFrF+dIqLKhJsM=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIqLKjtV0=","type":"boolean","direction":"return"}
+{"_parent":"AAAAAAFrF+dIqLKe870=","visibility":"protected","name":"temp4","_type":"UMLOperation","_id":"AAAAAAFrF+dIqLKkUGk="}
+{"_parent":"AAAAAAFrF+dIqLKkUGk=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIqLKlL0o=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIqLKe870=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAFrF+dIzbMRfEw=","source":"AAAAAAFrF+dIqLKe870=","target":"AAAAAAFrF+dImrKHZWs="}
+{"_parent":"AAAAAAFrF+dIqLKe870=","visibility":"private","name":"temp","_type":"UMLAttribute","_id":"AAAAAAFrF+dIz7MlcJE=","type":"int"}
+{"_parent":"AAAAAAFrF+dIqLKe870=","visibility":"private","name":"temp1","_type":"UMLAttribute","_id":"AAAAAAFrF+dIz7MmA2s=","type":"int"}
+{"_parent":"AAAAAAFrF+dIqLKe870=","visibility":"private","name":"temp2","_type":"UMLAttribute","_id":"AAAAAAFrF+dI0LMnaN0=","type":"int"}
+{"_parent":"AAAAAAFrF+dIlrJ7F9g=","visibility":"public","name":"I1","_type":"UMLInterface","_id":"AAAAAAFrF+dIqbKmPyw="}
+{"_parent":"AAAAAAFrF+dIqbKmPyw=","visibility":"package","name":"floatTensor","_type":"UMLOperation","_id":"AAAAAAFrF+dIqbKnDHM="}
+{"_parent":"AAAAAAFrF+dIqbKnDHM=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIqbKopHU=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIlrJ7F9g=","visibility":"public","name":"I2","_type":"UMLInterface","_id":"AAAAAAFrF+dIqrKpqzM="}
+{"_parent":"AAAAAAFrF+dIqrKpqzM=","visibility":"package","name":"doubleTensor","_type":"UMLOperation","_id":"AAAAAAFrF+dIqrKq56c="}
+{"_parent":"AAAAAAFrF+dIqrKq56c=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIqrKr2ec=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIlrJ7F9g=","visibility":"public","name":"I3","_type":"UMLInterface","_id":"AAAAAAFrF+dIq7KscWE="}
+{"_parent":"AAAAAAFrF+dIq7KscWE=","visibility":"package","name":"float32Tensor","_type":"UMLOperation","_id":"AAAAAAFrF+dIq7KtxNk="}
+{"_parent":"AAAAAAFrF+dIq7KtxNk=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIq7KutnY=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIq7KscWE=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAFrF+dIzbMSCiM=","source":"AAAAAAFrF+dIq7KscWE=","target":"AAAAAAFrF+dIqbKmPyw="}
+{"_parent":"AAAAAAFrF+dIq7KscWE=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAFrF+dIzbMTzcs=","source":"AAAAAAFrF+dIq7KscWE=","target":"AAAAAAFrF+dIqrKpqzM="}
+{"_parent":"AAAAAAFrF+dIlrJ7F9g=","visibility":"public","name":"I4","_type":"UMLInterface","_id":"AAAAAAFrF+dIrLKvaZs="}
+{"_parent":"AAAAAAFrF+dIrLKvaZs=","visibility":"package","name":"float16Tensor","_type":"UMLOperation","_id":"AAAAAAFrF+dIrLKwle0="}
+{"_parent":"AAAAAAFrF+dIrLKwle0=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIrLKxjw0=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIrLKvaZs=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAFrF+dIzbMUl4k=","source":"AAAAAAFrF+dIrLKvaZs=","target":"AAAAAAFrF+dIq7KscWE="}
+{"_parent":"AAAAAAFrF+dIlrJ7F9g=","visibility":"public","name":"I5","_type":"UMLInterface","_id":"AAAAAAFrF+dIrrKytM0="}
+{"_parent":"AAAAAAFrF+dIrrKytM0=","visibility":"package","name":"float64Tensor","_type":"UMLOperation","_id":"AAAAAAFrF+dIrrKz7WM="}
+{"_parent":"AAAAAAFrF+dIrrKz7WM=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIrrK0U9Q=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIrrKytM0=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAFrF+dIzrMVJ9I=","source":"AAAAAAFrF+dIrrKytM0=","target":"AAAAAAFrF+dIqbKmPyw="}
+{"_parent":"AAAAAAFrF+dIrrKytM0=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAFrF+dIzrMWurM=","source":"AAAAAAFrF+dIrrKytM0=","target":"AAAAAAFrF+dIrLKvaZs="}
+{"_parent":"AAAAAAFrF+dIlrJ7F9g=","visibility":"public","name":"ObjectDetection","_type":"UMLClass","_id":"AAAAAAFrF+dIwbK1BdI="}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"getmType","_type":"UMLOperation","_id":"AAAAAAFrF+dIwrK2g58="}
+{"_parent":"AAAAAAFrF+dIwrK2g58=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIwrK3hSM=","type":"int","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmType","_type":"UMLOperation","_id":"AAAAAAFrF+dIwrK44NU="}
+{"_parent":"AAAAAAFrF+dIwrK44NU=","name":"mType","_type":"UMLParameter","_id":"AAAAAAFrF+dIwrK5ECA=","type":"int","direction":"in"}
+{"_parent":"AAAAAAFrF+dIwrK44NU=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIwrK6mRo=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"getmBackBone","_type":"UMLOperation","_id":"AAAAAAFrF+dIw7K7pyE="}
+{"_parent":"AAAAAAFrF+dIw7K7pyE=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIw7K8eKA=","type":"String","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmBackBone","_type":"UMLOperation","_id":"AAAAAAFrF+dIw7K9vQ4="}
+{"_parent":"AAAAAAFrF+dIw7K9vQ4=","name":"mBackBone","_type":"UMLParameter","_id":"AAAAAAFrF+dIw7K+coo=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIw7K9vQ4=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIw7K\/N8A=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"getmNeck","_type":"UMLOperation","_id":"AAAAAAFrF+dIw7LAMYs="}
+{"_parent":"AAAAAAFrF+dIw7LAMYs=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIw7LBmL8=","type":"String","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmNeck","_type":"UMLOperation","_id":"AAAAAAFrF+dIw7LCaQU="}
+{"_parent":"AAAAAAFrF+dIw7LCaQU=","name":"mNeck","_type":"UMLParameter","_id":"AAAAAAFrF+dIw7LDYcE=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIw7LCaQU=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLE6HM=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"getmHead","_type":"UMLOperation","_id":"AAAAAAFrF+dIxLLF08s="}
+{"_parent":"AAAAAAFrF+dIxLLF08s=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLGpFY=","type":"String","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmHead","_type":"UMLOperation","_id":"AAAAAAFrF+dIxLLHpqY="}
+{"_parent":"AAAAAAFrF+dIxLLHpqY=","name":"mHead","_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLIPi4=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIxLLHpqY=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLJh8I=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"getmNmsType","_type":"UMLOperation","_id":"AAAAAAFrF+dIxLLK5Pg="}
+{"_parent":"AAAAAAFrF+dIxLLK5Pg=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLL+fg=","type":"String","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmNmsType","_type":"UMLOperation","_id":"AAAAAAFrF+dIxLLMKwQ="}
+{"_parent":"AAAAAAFrF+dIxLLMKwQ=","name":"mNmsType","_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLNyG4=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIxLLMKwQ=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLOZKE=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"getmLossType","_type":"UMLOperation","_id":"AAAAAAFrF+dIxLLPoeQ="}
+{"_parent":"AAAAAAFrF+dIxLLPoeQ=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLQFX8=","type":"String","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmLossType","_type":"UMLOperation","_id":"AAAAAAFrF+dIxLLRj7A="}
+{"_parent":"AAAAAAFrF+dIxLLRj7A=","name":"mLossType","_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLSvsM=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIxLLRj7A=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLTfac=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"ismEnablePyramid","_type":"UMLOperation","_id":"AAAAAAFrF+dIxLLUago="}
+{"_parent":"AAAAAAFrF+dIxLLUago=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLVUD8=","type":"boolean","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmEnablePyramid","_type":"UMLOperation","_id":"AAAAAAFrF+dIxLLWEUE="}
+{"_parent":"AAAAAAFrF+dIxLLWEUE=","name":"mEnablePyramid","_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLXmIQ=","type":"boolean","direction":"in"}
+{"_parent":"AAAAAAFrF+dIxLLWEUE=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxLLYbk8=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"ismEnableFpn","_type":"UMLOperation","_id":"AAAAAAFrF+dIxLLZNWs="}
+{"_parent":"AAAAAAFrF+dIxLLZNWs=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLaNhY=","type":"boolean","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmEnableFpn","_type":"UMLOperation","_id":"AAAAAAFrF+dIxbLbqiI="}
+{"_parent":"AAAAAAFrF+dIxbLbqiI=","name":"mEnableFpn","_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLcmt0=","type":"boolean","direction":"in"}
+{"_parent":"AAAAAAFrF+dIxbLbqiI=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLdhDU=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"ismEnableMaskBranch","_type":"UMLOperation","_id":"AAAAAAFrF+dIxbLeLmQ="}
+{"_parent":"AAAAAAFrF+dIxbLeLmQ=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLfysc=","type":"boolean","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmEnableMaskBranch","_type":"UMLOperation","_id":"AAAAAAFrF+dIxbLgPnY="}
+{"_parent":"AAAAAAFrF+dIxbLgPnY=","name":"mEnableMaskBranch","_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLh7xs=","type":"boolean","direction":"in"}
+{"_parent":"AAAAAAFrF+dIxbLgPnY=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLi69Q=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"getmNmsThreshold","_type":"UMLOperation","_id":"AAAAAAFrF+dIxbLjLfQ="}
+{"_parent":"AAAAAAFrF+dIxbLjLfQ=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLkNYo=","type":"double","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmNmsThreshold","_type":"UMLOperation","_id":"AAAAAAFrF+dIxbLlCU0="}
+{"_parent":"AAAAAAFrF+dIxbLlCU0=","name":"mNmsThreshold","_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLmzQ8=","type":"double","direction":"in"}
+{"_parent":"AAAAAAFrF+dIxbLlCU0=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLnNSU=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"getmInitType","_type":"UMLOperation","_id":"AAAAAAFrF+dIxbLoylU="}
+{"_parent":"AAAAAAFrF+dIxbLoylU=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLppu4=","type":"String","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmInitType","_type":"UMLOperation","_id":"AAAAAAFrF+dIxbLqXUY="}
+{"_parent":"AAAAAAFrF+dIxbLqXUY=","name":"mInitType","_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLrgNA=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIxbLqXUY=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLsPGQ=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"getmEnableDeformableConv","_type":"UMLOperation","_id":"AAAAAAFrF+dIxbLtlls="}
+{"_parent":"AAAAAAFrF+dIxbLtlls=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLugaA=","type":"String","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmEnableDeformableConv","_type":"UMLOperation","_id":"AAAAAAFrF+dIxbLvViY="}
+{"_parent":"AAAAAAFrF+dIxbLvViY=","name":"mEnableDeformableConv","_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLwFvA=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIxbLvViY=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLx\/Jk=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"ismIsAnchorFree","_type":"UMLOperation","_id":"AAAAAAFrF+dIxbLyRIU="}
+{"_parent":"AAAAAAFrF+dIxbLyRIU=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbLzA2g=","type":"boolean","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmIsAnchorFree","_type":"UMLOperation","_id":"AAAAAAFrF+dIxbL0q2s="}
+{"_parent":"AAAAAAFrF+dIxbL0q2s=","name":"mIsAnchorFree","_type":"UMLParameter","_id":"AAAAAAFrF+dIxbL1dnw=","type":"boolean","direction":"in"}
+{"_parent":"AAAAAAFrF+dIxbL0q2s=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbL2vlo=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"ismIsUseKeypoints","_type":"UMLOperation","_id":"AAAAAAFrF+dIxbL3DLk="}
+{"_parent":"AAAAAAFrF+dIxbL3DLk=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIxbL4HEI=","type":"boolean","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"public","name":"setmIsUseKeypoints","_type":"UMLOperation","_id":"AAAAAAFrF+dIxrL5h64="}
+{"_parent":"AAAAAAFrF+dIxrL5h64=","name":"mIsUseKeypoints","_type":"UMLParameter","_id":"AAAAAAFrF+dIx7L6TRI=","type":"boolean","direction":"in"}
+{"_parent":"AAAAAAFrF+dIxrL5h64=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIx7L7xi4=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","name":null,"_type":"UMLInterfaceRealization","_id":"AAAAAAFrF+dIzrMcqnk=","source":"AAAAAAFrF+dIwbK1BdI=","target":"AAAAAAFrF+dIqbKmPyw="}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mType","_type":"UMLAttribute","_id":"AAAAAAFrF+dI0LMoTu0=","type":"int"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mBackBone","_type":"UMLAttribute","_id":"AAAAAAFrF+dI0bMp4GY=","type":"String"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mNeck","_type":"UMLAttribute","_id":"AAAAAAFrF+dI0bMq1xc=","type":"String"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mHead","_type":"UMLAttribute","_id":"AAAAAAFrF+dI0bMrL28=","type":"String"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mNmsType","_type":"UMLAttribute","_id":"AAAAAAFrF+dI0bMsjTw=","type":"String"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mLossType","_type":"UMLAttribute","_id":"AAAAAAFrF+dI0bMtVDw=","type":"String"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mEnablePyramid","_type":"UMLAttribute","_id":"AAAAAAFrF+dI0bMuufI=","type":"boolean"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mEnableFpn","_type":"UMLAttribute","_id":"AAAAAAFrF+dI0bMvFwI=","type":"boolean"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mEnableMaskBranch","_type":"UMLAttribute","_id":"AAAAAAFrF+dI0bMwzI8=","type":"boolean"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mNmsThreshold","_type":"UMLAttribute","_id":"AAAAAAFrF+dI0bMxSgY=","type":"double"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mInitType","_type":"UMLAttribute","_id":"AAAAAAFrF+dI0rMyR2E=","type":"String"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mEnableDeformableConv","_type":"UMLAttribute","_id":"AAAAAAFrF+dI17Mz5V8=","type":"String"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mIsAnchorFree","_type":"UMLAttribute","_id":"AAAAAAFrF+dI17M0Wlk=","type":"boolean"}
+{"_parent":"AAAAAAFrF+dIwbK1BdI=","visibility":"private","name":"mIsUseKeypoints","_type":"UMLAttribute","_id":"AAAAAAFrF+dI17M1Pgk=","type":"boolean"}
+{"_parent":"AAAAAAFrF+dIlrJ7F9g=","visibility":"public","name":"ObjectDetectionInstance","_type":"UMLClass","_id":"AAAAAAFrF+dIy7L8FSY="}
+{"_parent":"AAAAAAFrF+dIy7L8FSY=","visibility":"public","name":"ObjectDetectionInstance","_type":"UMLOperation","_id":"AAAAAAFrF+dIy7L95dQ="}
+{"_parent":"AAAAAAFrF+dIy7L95dQ=","name":"a","_type":"UMLParameter","_id":"AAAAAAFrF+dIy7L+sWk=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIy7L95dQ=","name":"b","_type":"UMLParameter","_id":"AAAAAAFrF+dIy7L\/6oo=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIy7L95dQ=","name":"c","_type":"UMLParameter","_id":"AAAAAAFrF+dIy7MAocw=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIy7L8FSY=","visibility":"package","name":"ObjectDetectionInstance","_type":"UMLOperation","_id":"AAAAAAFrF+dIy7MBeMs="}
+{"_parent":"AAAAAAFrF+dIy7MBeMs=","name":"c","_type":"UMLParameter","_id":"AAAAAAFrF+dIy7MC7KE=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIy7L8FSY=","visibility":"package","name":"ObjectDetectionInstance","_type":"UMLOperation","_id":"AAAAAAFrF+dIy7MDJJw="}
+{"_parent":"AAAAAAFrF+dIy7MDJJw=","name":"a","_type":"UMLParameter","_id":"AAAAAAFrF+dIzLMEPcM=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIy7MDJJw=","name":"b","_type":"UMLParameter","_id":"AAAAAAFrF+dIzLMFM2E=","type":"String","direction":"in"}
+{"_parent":"AAAAAAFrF+dIy7L8FSY=","visibility":"public","name":"toString","_type":"UMLOperation","_id":"AAAAAAFrF+dIzLMGHmg="}
+{"_parent":"AAAAAAFrF+dIzLMGHmg=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIzLMHKZg=","type":"String","direction":"return"}
+{"_parent":"AAAAAAFrF+dIy7L8FSY=","visibility":"public","name":"hashCode","_type":"UMLOperation","_id":"AAAAAAFrF+dIzLMIzgY="}
+{"_parent":"AAAAAAFrF+dIzLMIzgY=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIzLMJp94=","type":"int","direction":"return"}
+{"_parent":"AAAAAAFrF+dIy7L8FSY=","visibility":"public","name":"equals","_type":"UMLOperation","_id":"AAAAAAFrF+dIzLMKQ2I="}
+{"_parent":"AAAAAAFrF+dIzLMKQ2I=","name":"obj","_type":"UMLParameter","_id":"AAAAAAFrF+dIzLMLO\/4=","type":{"$ref":"AAAAAAFrF+dI2LM2p5k="},"direction":"in"}
+{"_parent":"AAAAAAFrF+dIzLMKQ2I=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIzLMM\/Cs=","type":"boolean","direction":"return"}
+{"_parent":"AAAAAAFrF+dIy7L8FSY=","visibility":"public","name":"floatTensor","_type":"UMLOperation","_id":"AAAAAAFrF+dIzLMNFaw="}
+{"_parent":"AAAAAAFrF+dIzLMNFaw=","name":null,"_type":"UMLParameter","_id":"AAAAAAFrF+dIzLMO7WQ=","type":"void","direction":"return"}
+{"_parent":"AAAAAAFrF+dIy7L8FSY=","name":null,"_type":"UMLGeneralization","_id":"AAAAAAFrF+dIzrMXsLA=","source":"AAAAAAFrF+dIy7L8FSY=","target":"AAAAAAFrF+dIwbK1BdI="}
+{"_parent":"AAAAAAFrF+dIiLJ5rHs=","visibility":"public","name":"Object","_type":"UMLClass","_id":"AAAAAAFrF+dI2LM2p5k="}
+END_OF_MODEL
+CLASS_COUNT
+CLASS_COUNT
+CLASS_OPERATION_COUNT ObjectDetection ALL
+CLASS_ASSO_CLASS_LIST ObjectDetection
+CLASS_OPERATION_COUNT ObjectDetection SELF_ONLY
+CLASS_ATTR_COUNT ObjectDetection ALL
+CLASS_ATTR_COUNT ObjectDetection SELF_ONLY
+CLASS_ASSO_COUNT ObjectDetection
+CLASS_ATTR_COUNT ObjectDetection ALL
+CLASS_ASSO_COUNT ObjectDetection
+CLASS_ATTR_COUNT ObjectDetection ALL
+CLASS_ATTR_COUNT ObjectDetection ALL
+CLASS_COUNT
+CLASS_ASSO_COUNT ObjectDetection
+CLASS_ATTR_COUNT ObjectDetection ALL
+CLASS_COUNT
+CLASS_ASSO_COUNT ObjectDetection
+CLASS_ASSO_CLASS_LIST ObjectDetection
+CLASS_OPERATION_VISIBILITY ObjectDetection float64Tensor
+CLASS_OPERATION_VISIBILITY ObjectDetection floatTensor
+CLASS_OPERATION_VISIBILITY ObjectDetection toString
+CLASS_OPERATION_VISIBILITY ObjectDetection hashCode
+CLASS_OPERATION_VISIBILITY ObjectDetection mType
+CLASS_OPERATION_VISIBILITY ObjectDetection mNmsThreshold
+CLASS_ATTR_VISIBILITY ObjectDetection mType
+CLASS_ATTR_VISIBILITY ObjectDetection mNmsThreshold
+CLASS_TOP_BASE ObjectDetection
+CLASS_IMPLEMENT_INTERFACE_LIST ObjectDetection
+CLASS_INFO_HIDDEN ObjectDetection
+CLASS_TOP_BASE ObjectDetection
+CLASS_IMPLEMENT_INTERFACE_LIST ObjectDetection
+CLASS_INFO_HIDDEN ObjectDetection
+CLASS_COUNT
+CLASS_COUNT
+CLASS_OPERATION_COUNT ObjectDetectionInstance ALL
+CLASS_ASSO_CLASS_LIST ObjectDetectionInstance
+CLASS_OPERATION_COUNT ObjectDetectionInstance SELF_ONLY
+CLASS_ATTR_COUNT ObjectDetectionInstance ALL
+CLASS_ATTR_COUNT ObjectDetectionInstance SELF_ONLY
+CLASS_ASSO_COUNT ObjectDetectionInstance
+CLASS_ATTR_COUNT ObjectDetectionInstance ALL
+CLASS_ASSO_COUNT ObjectDetectionInstance
+CLASS_ATTR_COUNT ObjectDetectionInstance ALL
+CLASS_ATTR_COUNT ObjectDetectionInstance ALL
+CLASS_COUNT
+CLASS_ASSO_COUNT ObjectDetectionInstance
+CLASS_ATTR_COUNT ObjectDetectionInstance ALL
+CLASS_COUNT
+CLASS_ASSO_COUNT ObjectDetectionInstance
+CLASS_ASSO_CLASS_LIST ObjectDetectionInstance
+CLASS_OPERATION_VISIBILITY ObjectDetectionInstance mEnableDeformableConv
+CLASS_OPERATION_VISIBILITY ObjectDetectionInstance setmIsUseKeypoints
+CLASS_OPERATION_VISIBILITY ObjectDetectionInstance getmEnableDeformableConv
+CLASS_OPERATION_VISIBILITY ObjectDetectionInstance setmInitType
+CLASS_OPERATION_VISIBILITY ObjectDetectionInstance getM1
+CLASS_OPERATION_VISIBILITY ObjectDetectionInstance toString
+CLASS_ATTR_VISIBILITY ObjectDetectionInstance mEnableDeformableConv
+CLASS_ATTR_VISIBILITY ObjectDetectionInstance mIsUseKeypoints
+CLASS_ATTR_VISIBILITY ObjectDetectionInstance mm
+CLASS_TOP_BASE ObjectDetectionInstance
+CLASS_IMPLEMENT_INTERFACE_LIST ObjectDetectionInstance
+CLASS_INFO_HIDDEN ObjectDetectionInstance
+CLASS_TOP_BASE ObjectDetectionInstance
+CLASS_IMPLEMENT_INTERFACE_LIST ObjectDetectionInstance
+CLASS_INFO_HIDDEN ObjectDetectionInstance
+CLASS_COUNT
+CLASS_COUNT
+CLASS_OPERATION_COUNT C3 ALL
+CLASS_ASSO_CLASS_LIST C3
+CLASS_OPERATION_COUNT C3 SELF_ONLY
+CLASS_ATTR_COUNT C3 ALL
+CLASS_ATTR_COUNT C3 SELF_ONLY
+CLASS_ASSO_COUNT C3
+CLASS_ATTR_COUNT C3 ALL
+CLASS_ASSO_COUNT C3
+CLASS_ATTR_COUNT C3 ALL
+CLASS_ATTR_COUNT C3 ALL
+CLASS_COUNT
+CLASS_ASSO_COUNT C3
+CLASS_ATTR_COUNT C3 ALL
+CLASS_COUNT
+CLASS_ASSO_COUNT C3
+CLASS_ASSO_CLASS_LIST C3
+CLASS_OPERATION_VISIBILITY C3 float64Tensor
+CLASS_OPERATION_VISIBILITY C3 floatTensor
+CLASS_OPERATION_VISIBILITY C3 float32Tensor
+CLASS_OPERATION_VISIBILITY C3 float32Tensor
+CLASS_OPERATION_VISIBILITY C3 c1m1
+CLASS_OPERATION_VISIBILITY C3 c1m2
+CLASS_TOP_BASE C3
+CLASS_IMPLEMENT_INTERFACE_LIST C3
+CLASS_INFO_HIDDEN C3
+CLASS_TOP_BASE C3
+CLASS_IMPLEMENT_INTERFACE_LIST C3
+CLASS_INFO_HIDDEN C3
+CLASS_COUNT
+CLASS_COUNT
+CLASS_OPERATION_COUNT C4 ALL
+CLASS_ASSO_CLASS_LIST C4
+CLASS_OPERATION_COUNT C4 SELF_ONLY
+CLASS_ATTR_COUNT C4 ALL
+CLASS_ATTR_COUNT C4 SELF_ONLY
+CLASS_ASSO_COUNT C4
+CLASS_ATTR_COUNT C4 ALL
+CLASS_ASSO_COUNT C4
+CLASS_ATTR_COUNT C4 ALL
+CLASS_ATTR_COUNT C4 ALL
+CLASS_COUNT
+CLASS_ASSO_COUNT C4
+CLASS_ATTR_COUNT C4 ALL
+CLASS_COUNT
+CLASS_ASSO_COUNT C4
+CLASS_ASSO_CLASS_LIST C4
+CLASS_OPERATION_VISIBILITY C4 float64Tensor
+CLASS_OPERATION_VISIBILITY C4 floatTensor
+CLASS_OPERATION_VISIBILITY C4 float32Tensor
+CLASS_OPERATION_VISIBILITY C4 float32Tensor
+CLASS_OPERATION_VISIBILITY C4 c1m1
+CLASS_OPERATION_VISIBILITY C4 c1m2
+CLASS_TOP_BASE C4
+CLASS_IMPLEMENT_INTERFACE_LIST C4
+CLASS_INFO_HIDDEN C4
+CLASS_TOP_BASE C4
+CLASS_IMPLEMENT_INTERFACE_LIST C4
+CLASS_INFO_HIDDEN C4
+CLASS_COUNT
+CLASS_COUNT
+CLASS_OPERATION_COUNT C5 ALL
+CLASS_ASSO_CLASS_LIST C5
+CLASS_OPERATION_COUNT C5 SELF_ONLY
+CLASS_ATTR_COUNT C5 ALL
+CLASS_ATTR_COUNT C5 SELF_ONLY
+CLASS_ASSO_COUNT C5
+CLASS_ATTR_COUNT C5 ALL
+CLASS_ASSO_COUNT C5
+CLASS_ATTR_COUNT C5 ALL
+CLASS_ATTR_COUNT C5 ALL
+CLASS_COUNT
+CLASS_ASSO_COUNT C5
+CLASS_ATTR_COUNT C5 ALL
+CLASS_COUNT
+CLASS_ASSO_COUNT C5
+CLASS_ASSO_CLASS_LIST C5
+CLASS_OPERATION_VISIBILITY C5 float64Tensor
+CLASS_OPERATION_VISIBILITY C5 floatTensor
+CLASS_OPERATION_VISIBILITY C5 float32Tensor
+CLASS_OPERATION_VISIBILITY C5 float32Tensor
+CLASS_OPERATION_VISIBILITY C5 c1m1
+CLASS_OPERATION_VISIBILITY C5 c1m2
+CLASS_TOP_BASE C5
+CLASS_IMPLEMENT_INTERFACE_LIST C5
+CLASS_INFO_HIDDEN C5
+CLASS_TOP_BASE C5
+CLASS_IMPLEMENT_INTERFACE_LIST C5
+CLASS_INFO_HIDDEN C5

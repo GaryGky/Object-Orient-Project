@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework_7_guidebook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/debug_logger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/互测/OO_test_elevator" vcs="Git" />
+  </component>
+</project>

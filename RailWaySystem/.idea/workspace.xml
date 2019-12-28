@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Hierarchy of proo.MyGraph" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54ff1078-a915-49d4-b8e2-4094ecd6c7df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../O9/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O9/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O9/src/MyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O9/src/MyPathContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project10/generator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyRailwaySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro/MyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro/MyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro/MyPathContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proo/GraphHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proo/MyGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prooo/LeaTicGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prooo/LeaTranGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prooo/LeaUpsetGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prooo/TransHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/MyUmlInteraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/UmlContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/helper/AssociateHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/helper/AttributeHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/helper/InterfaceHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/helper/OprationHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/myuml/MyUmlClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/myuml/MyUmlInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__com_alibaba_fastjson_1_2_49.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__com_github_javaparser_javaparser_core_3_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__com_github_javaparser_javaparser_core_serialization_3_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__javax_json_javax_json_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__org_apache_bcel_bcel_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/statistic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlclass/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlclass/classorinterface/MyUmlClassOrInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlsequence/MySeqInterAct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlsequence/MyUmlLifeLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlsequence/SeqQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlstate/MyFinalState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlstate/MyPseudoState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlstate/MyUmlState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlstate/StateMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlstate/StateQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/InvalidRemoveException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/QueryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/SchedulableCarrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/UnsortedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/observer/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/observer/Bull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/observer/OilFutures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/observer/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Observator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Rate/ExportCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Rate/ImportCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Rate/ObsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Rate/RmbRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Ring/Ring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Ring/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Ring/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Ring/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/abstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/color/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/color/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/color/Green.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/color/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/Rectangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/ShapeCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Deposit/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Deposit/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Deposit/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/SaleTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/SaleTicket1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/ticket2/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/ticket2/SaleTicket2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/ticket2/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/Dispatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/Elevator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/ElevatorConst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/MainDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/OnOff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/request/InputHandle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/request/ReqQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/request/SingleRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_11_guidebook/面向对象JML系列第三次指导书.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework_11_guidebook/面向对象JML系列第三次指导书.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs-homework-3-opensource/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/specs-homework-3-opensource/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs-homework-3-std/src/models/core/ColorMapCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/specs-homework-3-std/src/models/core/ColorMapCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs-homework-3-std/src/models/core/PathCalculationGraphCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/specs-homework-3-std/src/models/core/PathCalculationGraphCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs-homework-3-std/src/models/graph/DirectedGraphCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/specs-homework-3-std/src/models/graph/DirectedGraphCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs-homework-3-std/src/models/graph/GraphCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/specs-homework-3-std/src/models/graph/GraphCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs-homework-3-std/src/utils/MyPathContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/specs-homework-3-std/src/utils/MyPathContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/Source.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/Targetable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/WrapperTest/SourceSub2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/WrapperTest/Sourceable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/WrapperTest/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/WrapperTest/WrapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/BuilderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Burger/Burger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Burger/NonVegBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Burger/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Burger/vegBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/ColdDrink/Bottle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/ColdDrink/Coke.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/ColdDrink/ColdDrink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/ColdDrink/Pepsi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Meal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/MealBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/PackUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Decorate/Decorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Decorate/Source.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Decorate/Sourceable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Decorate/TestDeco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/Sender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/factoryMail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/factorySms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/mail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/sms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/PageReplace/FIFO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/PageReplace/InputParse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/PageReplace/LRU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/PageReplace/elmForLru.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/SinglePattern/SingleObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/SinglePattern/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/SinglePattern/testSingle.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Project11$MyRailwaySystemTest.ic" NAME="MyRailwaySystemTest Coverage Results" MODIFIED="1558445441746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Project11$MyRailwaySystemTest_getLeastTransferCount.ic" NAME="MyRailwaySystemTest.getLeastTransferCount Coverage Results" MODIFIED="1558445416860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myAutoScrollFromSource" value="true" />
+    <option name="myElementSize" value="22" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pro/MyPath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#MyPath#0;class#MyPath#0" />
+                <element signature="method#equals#0;class#MyPath#0" />
+                <element signature="method#getUnpleasantValue#0;class#MyPath#0" />
+                <element signature="method#compareTo#0;class#MyPath#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyRailwaySystemTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/prooo/LeaUpsetGen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#LeaUpsetGen#0;class#LeaUpsetGen#0" />
+                <element signature="method#minDis#0;class#LeaUpsetGen#0" />
+                <element signature="method#pathToMap#0;class#LeaUpsetGen#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyRailwaySystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="626">
+              <caret line="149" column="13" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#MyRailwaySystem#0;class#MyRailwaySystem#0" />
+                <element signature="method#getLeastTicketPrice#0;class#MyRailwaySystem#0" />
+                <element signature="method#getLeastTransferCount#0;class#MyRailwaySystem#0" />
+                <element signature="method#getUnpleasantValue#0;class#MyRailwaySystem#0" />
+                <element signature="method#getLeastUnpleasantValue#0;class#MyRailwaySystem#0" />
+                <element signature="e#2888#2889#0" expanded="true" />
+                <element signature="e#2941#2942#0" expanded="true" />
+                <element signature="e#3001#3002#0" expanded="true" />
+                <element signature="e#3047#3048#0" expanded="true" />
+                <element signature="e#3115#3116#0" expanded="true" />
+                <element signature="e#3165#3166#0" expanded="true" />
+                <element signature="method#isConnected#0;class#MyRailwaySystem#0" />
+                <element signature="method#getShortestPathLength#0;class#MyRailwaySystem#0" />
+                <element signature="e#3557#3558#0" expanded="true" />
+                <element signature="e#3594#3595#0" expanded="true" />
+                <element signature="e#3658#3659#0" expanded="true" />
+                <element signature="e#3707#3708#0" expanded="true" />
+                <element signature="e#3769#3770#0" expanded="true" />
+                <element signature="e#3817#3818#0" expanded="true" />
+                <element signature="method#getPathById#0;class#MyRailwaySystem#0" />
+                <element signature="method#addPath#0;class#MyRailwaySystem#0" />
+                <element signature="method#removePath#0;class#MyRailwaySystem#0" />
+                <element signature="method#removePathById#0;class#MyRailwaySystem#0" />
+                <element signature="e#5119#5120#0" expanded="true" />
+                <element signature="e#5172#5173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pro/MyNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getAdjNode#0;class#MyNode#0" />
+                <element signature="method#addNode#0;class#MyNode#0" />
+                <element signature="method#deleteNode#0;class#MyNode#0" />
+                <element signature="method#getFirst#0;class#MyNode#0" />
+                <element signature="method#equals#0;class#MyNode#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/proo/GraphHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#GraphHelper#0;class#GraphHelper#0" />
+                <element signature="method#fillMap#0;class#GraphHelper#0" />
+                <element signature="method#mapValue#0;class#GraphHelper#0" />
+                <element signature="method#fillAdj#0;class#GraphHelper#0" />
+                <element signature="method#fillDis#0;class#GraphHelper#0" />
+                <element signature="method#minDis#0;class#GraphHelper#0" />
+                <element signature="method#mapInit#0;class#GraphHelper#0" />
+                <element signature="method#isAdjacent#0;class#GraphHelper#0" />
+                <element signature="method#getMinDis#0;class#GraphHelper#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/prooo/LeaTicGen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#minDis#0;class#LeaTicGen#0" />
+                <element signature="e#614#1524#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/prooo/LeaTranGen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/prooo/TransHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#TransHelper#0;class#TransHelper#0" />
+                <element signature="method#initCost#0;class#TransHelper#0" />
+                <element signature="method#resetCost#0;class#TransHelper#0" />
+                <element signature="method#pathToMap#0;class#TransHelper#0" />
+                <element signature="method#floyd#0;class#TransHelper#0" />
+                <element signature="method#travelBfs#0;class#TransHelper#0" />
+                <element signature="method#minDis#0;class#TransHelper#0" />
+                <element signature="method#minDis#1;class#TransHelper#0" />
+                <element signature="method#clear#0;class#TransHelper#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nodeHashMap</find>
+      <find>nodeHashMap.put</find>
+      <find>nodeHashMap.</find>
+      <find>transNodeMap</find>
+      <find>unionFindMap.clear();</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/RailwaySystem.java" />
+        <option value="$PROJECT_DIR$/src/pathLeastTrans/PathHelper.java" />
+        <option value="$PROJECT_DIR$/src/pathleasttrans/PathHelper.java" />
+        <option value="$PROJECT_DIR$/src/MyGraphTest.java" />
+        <option value="$PROJECT_DIR$/src/MyGraph.java" />
+        <option value="$PROJECT_DIR$/src/MyPathContainer.java" />
+        <option value="$PROJECT_DIR$/src/MyPath.java" />
+        <option value="$PROJECT_DIR$/src/MyGraphTest1.java" />
+        <option value="$PROJECT_DIR$/src/GraphHelper.java" />
+        <option value="$PROJECT_DIR$/src/MyNode.java" />
+        <option value="$PROJECT_DIR$/src/PathHelper.java" />
+        <option value="$PROJECT_DIR$/src/pro2/PathHelper.java" />
+        <option value="$PROJECT_DIR$/src/TransHelper.java" />
+        <option value="$PROJECT_DIR$/src/pro3/LeaTranGen.java" />
+        <option value="$PROJECT_DIR$/src/pro3/LeaTicGen.java" />
+        <option value="$PROJECT_DIR$/src/pro1/MyPath.java" />
+        <option value="$PROJECT_DIR$/src/pro2/GraphHelper.java" />
+        <option value="$PROJECT_DIR$/src/pro1/MyPathContainer.java" />
+        <option value="$PROJECT_DIR$/src/pro2/MyGraph.java" />
+        <option value="$PROJECT_DIR$/src/pro3/TransHelper.java" />
+        <option value="$PROJECT_DIR$/src/pro3/LeaUpsetGen.java" />
+        <option value="$PROJECT_DIR$/src/jml_2_strong_3_stdin.txt" />
+        <option value="$PROJECT_DIR$/src/pro/MyNode.java" />
+        <option value="$PROJECT_DIR$/src/pro/MyPath.java" />
+        <option value="$PROJECT_DIR$/src/RailSysTest1.java" />
+        <option value="$PROJECT_DIR$/src/test/RailSysTest1.java" />
+        <option value="$PROJECT_DIR$/src/proo/GraphHelper.java" />
+        <option value="$PROJECT_DIR$/src/jml_2_strong_20_stdin.txt" />
+        <option value="$PROJECT_DIR$/src/prooo/LeaTicGen.java" />
+        <option value="$PROJECT_DIR$/src/MyRailwaySystemTest1.java" />
+        <option value="$PROJECT_DIR$/src/MyRailwaySystemTest3.java" />
+        <option value="$PROJECT_DIR$/src/MyRailwaySystemTest2.java" />
+        <option value="$PROJECT_DIR$/src/prooo/LeaUpsetGen.java" />
+        <option value="$PROJECT_DIR$/src/prooo/LeaTranGen.java" />
+        <option value="$PROJECT_DIR$/src/proo/MyGraph.java" />
+        <option value="$PROJECT_DIR$/src/a.txt" />
+        <option value="$PROJECT_DIR$/src/myout1.txt" />
+        <option value="$PROJECT_DIR$/src/gener.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/pro/MyPathContainer.java" />
+        <option value="$PROJECT_DIR$/src/MyRailwaySystem.java" />
+        <option value="$PROJECT_DIR$/src/MyRailwaySystemTest.java" />
+        <option value="$PROJECT_DIR$/src/prooo/TransHelper.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="957" />
+    <option name="y" value="135" />
+    <option name="width" value="1110" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="prooo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560997960127" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../blogs/最后一次博客作业" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyRailwaySystemTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Project11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRailwaySystemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyRailwaySystemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRailwaySystemTest1.getLeastTicketPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyRailwaySystemTest1" />
+      <option name="METHOD_NAME" value="getLeastTicketPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRailwaySystemTest3.getUnpleasantValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyRailwaySystemTest3" />
+      <option name="METHOD_NAME" value="getUnpleasantValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRailwaySystemTest.getLeastTransferCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project11" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyRailwaySystemTest" />
+      <option name="METHOD_NAME" value="getLeastTransferCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyRailwaySystemTest" />
+        <item itemvalue="JUnit.MyRailwaySystemTest.getLeastTransferCount" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MyRailwaySystemTest3.getUnpleasantValue" />
+        <item itemvalue="JUnit.MyRailwaySystemTest1.getLeastTicketPrice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54ff1078-a915-49d4-b8e2-4094ecd6c7df" name="Default Changelist" comment="" />
+      <created>1557487207309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557487207309</updated>
+      <workItem from="1557487212418" duration="1252000" />
+      <workItem from="1557536929740" duration="19795000" />
+      <workItem from="1557563600479" duration="38000" />
+      <workItem from="1557578178697" duration="7421000" />
+      <workItem from="1557587496026" duration="727000" />
+      <workItem from="1557622962167" duration="10404000" />
+      <workItem from="1557641832251" duration="20549000" />
+      <workItem from="1557710936728" duration="48000" />
+      <workItem from="1557740564105" duration="19537000" />
+      <workItem from="1557793888333" duration="7393000" />
+      <workItem from="1557806842318" duration="225000" />
+      <workItem from="1557812981087" duration="4973000" />
+      <workItem from="1557883181193" duration="15000" />
+      <workItem from="1557883352933" duration="57000" />
+      <workItem from="1557884319119" duration="2051000" />
+      <workItem from="1557907634520" duration="78000" />
+      <workItem from="1558057793975" duration="1698000" />
+      <workItem from="1558095110706" duration="43000" />
+      <workItem from="1558098946388" duration="791000" />
+      <workItem from="1558100033376" duration="35000" />
+      <workItem from="1558415252834" duration="1140000" />
+      <workItem from="1558445374510" duration="1232000" />
+      <workItem from="1558678012752" duration="194000" />
+      <workItem from="1560927402987" duration="726000" />
+      <workItem from="1560997811998" duration="144000" />
+      <workItem from="1560999855390" duration="296000" />
+      <workItem from="1561031405068" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyRailwaySystemTest3_getUnpleasantValue - 2019.05.14 at 09h 26m 22s.xml">
+      <configuration name="MyRailwaySystemTest3.getUnpleasantValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyRailwaySystemTest3_getUnpleasantValue - 2019.05.14 at 09h 30m 56s.xml">
+      <configuration name="MyRailwaySystemTest3.getUnpleasantValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyRailwaySystemTest3_getUnpleasantValue - 2019.05.14 at 10h 29m 39s.xml">
+      <configuration name="MyRailwaySystemTest3.getUnpleasantValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyRailwaySystemTest3_getUnpleasantValue - 2019.05.14 at 10h 29m 44s.xml">
+      <configuration name="MyRailwaySystemTest3.getUnpleasantValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyRailwaySystemTest_getLeastTransferCount - 2019.05.21 at 13h 14m 16s.xml">
+      <configuration name="MyRailwaySystemTest.getLeastTransferCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyRailwaySystemTest_getLeastTransferCount - 2019.05.21 at 13h 17m 20s.xml">
+      <configuration name="MyRailwaySystemTest.getLeastTransferCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyRailwaySystemTest_getLeastTransferCount - 2019.05.21 at 13h 18m 51s.xml">
+      <configuration name="MyRailwaySystemTest.getLeastTransferCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyRailwaySystemTest_getLeastTransferCount - 2019.05.21 at 21h 29m 51s.xml">
+      <configuration name="MyRailwaySystemTest.getLeastTransferCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyRailwaySystemTest_getLeastTransferCount - 2019.05.21 at 21h 30m 23s.xml">
+      <configuration name="MyRailwaySystemTest.getLeastTransferCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyRailwaySystemTest - 2019.05.21 at 21h 30m 45s.xml">
+      <configuration name="MyRailwaySystemTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="100957000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.19784173" visible="true" weight="0.20829943" />
+      <window_info id="Structure" order="1" sideWeight="0.8021583" side_tool="true" weight="0.23189585" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32945737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15697674" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6492248" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32945737" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.33527133" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="JProfiler" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32945737" />
+      <window_info anchor="bottom" id="Metrics" order="15" weight="0.6531008" />
+      <window_info anchor="bottom" id="Statistic" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.4589097" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.19784173" visible="true" weight="0.23515053" />
+      <window_info id="Structure" order="1" sideWeight="0.8021583" side_tool="true" weight="0.23189585" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32945737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24031007" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.07364341" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.32945737" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="JProfiler" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32945737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/MyGraphTest.java</url>
+          <line>37</line>
+          <properties class="test.MyGraphTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/MyGraphTest1.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/MyGraphTest1.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prooo/TransHelper.java</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="pathMap[1]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>w</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pathMap[v][i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getCost()[v][i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getCost()[w][start]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getOrderToValue().get(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getOrderToValue().get(v)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>v</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>start</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pro2.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/MyGraphTest.java" />
+    <entry file="file://$PROJECT_DIR$/specs-homework-3-opensource/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2575">
+          <caret line="494" column="52" lean-forward="true" selection-start-line="494" selection-start-column="52" selection-end-line="494" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pro2/PathHelper.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/MyGraphTest1.java" />
+    <entry file="file://$PROJECT_DIR$/src/myout.txt" />
+    <entry file="file://$PROJECT_DIR$/src/jml_2_strong_3_stdin.txt" />
+    <entry file="file://$PROJECT_DIR$/src/test/RailSysTest1.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/specs-homework-3-1.3-raw-jar-with-dependencies (1).jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jml_2_strong_1_stdin.txt" />
+    <entry file="file://$PROJECT_DIR$/src/myout11.txt" />
+    <entry file="jar://$PROJECT_DIR$/lib/specs-homework-3-1.3-raw-jar-with-dependencies (1).jar!/com/oocourse/specs3/models/Path.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jml_2_strong_20_stdin.txt" />
+    <entry file="file://$PROJECT_DIR$/src/MyRailwaySystemTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/MyRailwaySystemTest1.java" />
+    <entry file="file://$PROJECT_DIR$/src/MyRailwaySystemTest3.java" />
+    <entry file="file://$PROJECT_DIR$/src/a.in" />
+    <entry file="file://$PROJECT_DIR$/src/a.txt" />
+    <entry file="file://$PROJECT_DIR$/src/myouta.txt" />
+    <entry file="file://$PROJECT_DIR$/src/myout1.txt" />
+    <entry file="file://$PROJECT_DIR$/src/output/output2.txt" />
+    <entry file="file://$PROJECT_DIR$/src/output/output6.txt" />
+    <entry file="file://$PROJECT_DIR$/src/output/output1.txt" />
+    <entry file="file://$PROJECT_DIR$/src/input/input127.txt" />
+    <entry file="file://$PROJECT_DIR$/src/output/output7.txt" />
+    <entry file="file://$PROJECT_DIR$/src/output/output9.txt" />
+    <entry file="file://$PROJECT_DIR$/src/input/input3.txt" />
+    <entry file="file://$PROJECT_DIR$/src/input/input4.txt" />
+    <entry file="file://$PROJECT_DIR$/src/output/output10.txt" />
+    <entry file="file://$PROJECT_DIR$/src/gener.java" />
+    <entry file="file://$PROJECT_DIR$/src/input/input2.txt" />
+    <entry file="file://$PROJECT_DIR$/src/input/input1.txt" />
+    <entry file="file://$PROJECT_DIR$/outF.txt" />
+    <entry file="uml://JAVA/proo.GraphHelper">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>proo.GraphHelper</OriginalElement>
+          <nodes>
+            <node x="" y="">pro.MyNode</node>
+            <node x="" y="">prooo.LeaTranGen</node>
+            <node x="" y="">pro.MyPath</node>
+            <node x="" y="">pro.MyPathContainer</node>
+            <node x="" y="">proo.MyGraph</node>
+            <node x="" y="">proo.GraphHelper</node>
+            <node x="" y="">MyRailwaySystem</node>
+            <node x="" y="">prooo.LeaUpsetGen</node>
+            <node x="" y="">prooo.LeaTicGen</node>
+            <node x="" y="">Main</node>
+            <node x="" y="">prooo.TransHelper</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.40000000000000013" x="787.0" y="1052.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proo/MyGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="226" column="15" selection-start-line="226" selection-start-column="15" selection-end-line="226" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MyGraph#0;class#MyGraph#0" />
+            <element signature="method#getNode#0;class#MyGraph#0" />
+            <element signature="method#updateMap#0;class#MyGraph#0" />
+            <element signature="method#addToNodeMap#0;class#MyGraph#0" />
+            <element signature="method#subFromNodeMap#0;class#MyGraph#0" />
+            <element signature="method#clearAlone#0;class#MyGraph#0" />
+            <element signature="method#travleDfs#0;class#MyGraph#0" />
+            <element signature="method#dfs#0;class#MyGraph#0" />
+            <element signature="method#getConnectedBlockNum#0;class#MyGraph#0" />
+            <element signature="e#4169#4170#0" expanded="true" />
+            <element signature="e#4208#4209#0" expanded="true" />
+            <element signature="method#getPathById#0;class#MyGraph#0" />
+            <element signature="method#getPathId#0;class#MyGraph#0" />
+            <element signature="method#addPath#0;class#MyGraph#0" />
+            <element signature="method#removePath#0;class#MyGraph#0" />
+            <element signature="method#containsEdge#0;class#MyGraph#0" />
+            <element signature="method#isConnected#0;class#MyGraph#0" />
+            <element signature="method#getShortestPathLength#0;class#MyGraph#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pro/MyPathContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MyPathContainer#0;class#MyPathContainer#0" />
+            <element signature="method#addDisNode#0;class#MyPathContainer#0" />
+            <element signature="method#subDisNode#0;class#MyPathContainer#0" />
+            <element signature="method#getPathById#0;class#MyPathContainer#0" />
+            <element signature="method#getPathId#0;class#MyPathContainer#0" />
+            <element signature="method#removePath#0;class#MyPathContainer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/pro.MyNode">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>pro.MyNode</OriginalElement>
+          <nodes>
+            <node x="1204.0" y="1732.0">pro.MyNode</node>
+            <node x="483.0" y="532.0">pro.MyPath</node>
+            <node x="843.0" y="66.0">pro.MyPathContainer</node>
+            <node x="63.0" y="963.0">proo.MyGraph</node>
+            <node x="1159.5" y="1158.0">proo.GraphHelper</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="proo.MyGraph" target="proo.GraphHelper">
+              <point x="80.0" y="317.0" />
+              <point x="320.0" y="1640.0" />
+              <point x="1280.0" y="1640.0" />
+              <point x="-40.0" y="122.0" />
+            </edge>
+            <edge source="proo.GraphHelper" target="proo.GraphHelper">
+              <point x="160.5" y="-0.0" />
+              <point x="1560.0" y="1280.0" />
+              <point x="1560.0" y="1080.0" />
+              <point x="1320.0" y="1080.0" />
+              <point x="0.0" y="-122.0" />
+            </edge>
+            <edge source="pro.MyPath" target="pro.MyPath">
+              <point x="-40.0" y="-148.0" />
+              <point x="560.0" y="480.0" />
+              <point x="400.0" y="480.0" />
+              <point x="400.0" y="680.0" />
+              <point x="-117.0" y="-0.0" />
+            </edge>
+            <edge source="proo.GraphHelper" target="pro.MyNode">
+              <point x="0.0" y="122.0" />
+              <point x="0.0" y="-148.0" />
+            </edge>
+            <edge source="proo.GraphHelper" target="pro.MyPathContainer">
+              <point x="-40.0" y="-122.0" />
+              <point x="1280.0" y="280.0" />
+              <point x="117.0" y="40.0" />
+            </edge>
+            <edge source="proo.MyGraph" target="proo.MyGraph">
+              <point x="-40.0" y="-317.0" />
+              <point x="200.0" y="920.0" />
+              <point x="0.0" y="920.0" />
+              <point x="0.0" y="1280.0" />
+              <point x="-177.0" y="-0.0" />
+            </edge>
+            <edge source="proo.MyGraph" target="pro.MyPath">
+              <point x="177.0" y="-80.0" />
+              <point x="600.0" y="1200.0" />
+              <point x="0.0" y="148.0" />
+            </edge>
+            <edge source="proo.MyGraph" target="pro.MyPathContainer">
+              <point x="177.0" y="-40.0" />
+              <point x="960.0" y="1240.0" />
+              <point x="0.0" y="174.0" />
+            </edge>
+            <edge source="pro.MyPathContainer" target="pro.MyPath">
+              <point x="-40.0" y="174.0" />
+              <point x="920.0" y="680.0" />
+              <point x="117.0" y="-0.0" />
+            </edge>
+            <edge source="pro.MyNode" target="pro.MyNode">
+              <point x="40.0" y="148.0" />
+              <point x="1360.0" y="2120.0" />
+              <point x="1520.0" y="2120.0" />
+              <point x="1520.0" y="1920.0" />
+              <point x="116.0" y="40.0" />
+            </edge>
+            <edge source="proo.MyGraph" target="pro.MyNode">
+              <point x="-177.0" y="40.0" />
+              <point x="0.0" y="1320.0" />
+              <point x="0.0" y="1880.0" />
+              <point x="-116.0" y="-0.0" />
+            </edge>
+            <edge source="pro.MyPathContainer" target="pro.MyPathContainer">
+              <point x="117.0" y="-0.0" />
+              <point x="1120.0" y="240.0" />
+              <point x="1120.0" y="0.0" />
+              <point x="960.0" y="0.0" />
+              <point x="0.0" y="-174.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.37965738758029977" x="725.0" y="570.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/prooo.TransHelper">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>prooo.TransHelper</OriginalElement>
+          <nodes>
+            <node x="" y="">prooo.LeaTranGen</node>
+            <node x="" y="">prooo.LeaUpsetGen</node>
+            <node x="" y="">prooo.LeaTicGen</node>
+            <node x="" y="">prooo.TransHelper</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6511627906976745" x="394.0" y="499.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/pro.MyPath">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>pro.MyPath</OriginalElement>
+          <nodes>
+            <node x="311.2632013271815" y="298.0">pro.MyNode</node>
+            <node x="494.257283359915" y="580.0">prooo.LeaTranGen</node>
+            <node x="483.26174764562927" y="182.0">pro.MyPath</node>
+            <node x="663.2572833599149" y="580.0">prooo.LeaUpsetGen</node>
+            <node x="466.51174764562927" y="96.0">com.oocourse.specs3.models.Path</node>
+            <node x="352.257283359915" y="580.0">prooo.LeaTicGen</node>
+            <node x="522.7617476456293" y="0.0">java.lang.Iterable</node>
+            <node x="50.001727804359405" y="298.0">pro.MyPathContainer</node>
+            <node x="172.98334377610706" y="580.0">proo.MyGraph</node>
+            <node x="179.2517278043594" y="444.0">proo.GraphHelper</node>
+            <node x="431.99967841004025" y="726.0">MyRailwaySystem</node>
+            <node x="354.76174764562927" y="0.0">java.lang.Comparable</node>
+            <node x="449.1486179938482" y="444.0">prooo.TransHelper</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="MyRailwaySystem" target="com.oocourse.specs3.models.Path">
+              <point x="74.09090909090911" y="-18.0" />
+              <point x="587.5905875009494" y="706.0" />
+              <point x="819.7572833599149" y="706.0" />
+              <point x="819.7572833599149" y="152.0" />
+              <point x="543.0117476456293" y="152.0" />
+              <point x="34.0" y="18.0" />
+            </edge>
+            <edge source="pro.MyPath" target="pro.MyPath">
+              <point x="-44.14285714285714" y="18.0" />
+              <point x="490.61889050277216" y="238.0" />
+              <point x="463.26174764562927" y="238.0" />
+              <point x="463.26174764562927" y="200.0" />
+              <point x="-51.5" y="-0.0" />
+            </edge>
+            <edge source="proo.MyGraph" target="proo.MyGraph">
+              <point x="-37.66666666666666" y="18.0" />
+              <point x="191.8166771094404" y="636.0" />
+              <point x="152.98334377610706" y="636.0" />
+              <point x="152.98334377610706" y="598.0" />
+              <point x="-56.5" y="-0.0" />
+            </edge>
+            <edge source="com.oocourse.specs3.models.Path" target="java.lang.Iterable">
+              <point x="21.25" y="-18.0" />
+              <point x="530.2617476456293" y="76.0" />
+              <point x="599.2617476456293" y="76.0" />
+              <point x="25.5" y="18.0" />
+            </edge>
+            <edge source="java.lang.Iterable" target="java.lang.Iterable">
+              <point x="-25.5" y="18.0" />
+              <point x="548.2617476456293" y="56.0" />
+              <point x="502.76174764562927" y="56.0" />
+              <point x="502.76174764562927" y="18.0" />
+              <point x="-51.0" y="-0.0" />
+            </edge>
+            <edge source="pro.MyPathContainer" target="pro.MyPath">
+              <point x="52.66666666666663" y="-18.0" />
+              <point x="181.66839447102603" y="278.0" />
+              <point x="534.7617476456293" y="278.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="proo.MyGraph" target="pro.MyNode">
+              <point x="50.22222222222217" y="-18.0" />
+              <point x="279.70556599832923" y="560.0" />
+              <point x="353.6281919286854" y="560.0" />
+              <point x="353.6281919286854" y="414.0" />
+              <point x="371.21320132718154" y="414.0" />
+              <point x="5.4500000000000455" y="18.0" />
+            </edge>
+            <edge source="pro.MyNode" target="pro.MyNode">
+              <point x="-49.05000000000001" y="18.0" />
+              <point x="316.7132013271815" y="354.0" />
+              <point x="291.2632013271815" y="354.0" />
+              <point x="291.2632013271815" y="325.0" />
+              <point x="-54.5" y="9.0" />
+            </edge>
+            <edge source="prooo.LeaUpsetGen" target="pro.MyNode">
+              <point x="16.875" y="-18.0" />
+              <point x="747.6322833599149" y="560.0" />
+              <point x="759.0072833599149" y="560.0" />
+              <point x="759.0072833599149" y="404.0" />
+              <point x="414.81320132718145" y="404.0" />
+              <point x="49.049999999999955" y="18.0" />
+            </edge>
+            <edge source="prooo.LeaUpsetGen" target="prooo.TransHelper">
+              <point x="-16.875" y="-18.0" />
+              <point x="713.8822833599149" y="540.0" />
+              <point x="570.0861179938481" y="540.0" />
+              <point x="56.4375" y="18.0" />
+            </edge>
+            <edge source="prooo.LeaUpsetGen" target="pro.MyPath">
+              <point x="50.625" y="-18.0" />
+              <point x="781.3822833599149" y="560.0" />
+              <point x="770.0072833599149" y="560.0" />
+              <point x="770.0072833599149" y="278.0" />
+              <point x="564.1903190742007" y="278.0" />
+              <point x="29.428571428571445" y="18.0" />
+            </edge>
+            <edge source="proo.MyGraph" target="proo.GraphHelper">
+              <point x="12.555555555555543" y="-18.0" />
+              <point x="242.0388993316626" y="530.0" />
+              <point x="289.2517278043594" y="530.0" />
+              <point x="44.0" y="18.0" />
+            </edge>
+            <edge source="prooo.LeaTranGen" target="prooo.TransHelper">
+              <point x="-43.0" y="-18.0" />
+              <point x="515.7572833599149" y="560.0" />
+              <point x="521.7111179938481" y="560.0" />
+              <point x="8.0625" y="18.0" />
+            </edge>
+            <edge source="proo.GraphHelper" target="pro.MyNode">
+              <point x="33.0" y="-18.0" />
+              <point x="278.2517278043594" y="384.0" />
+              <point x="338.5132013271815" y="384.0" />
+              <point x="-27.25" y="18.0" />
+            </edge>
+            <edge source="prooo.LeaTicGen" target="prooo.TransHelper">
+              <point x="0.0" y="-18.0" />
+              <point x="412.757283359915" y="540.0" />
+              <point x="473.3361179938482" y="540.0" />
+              <point x="-40.3125" y="18.0" />
+            </edge>
+            <edge source="proo.MyGraph" target="pro.MyPathContainer">
+              <point x="-25.111111111111086" y="-18.0" />
+              <point x="204.37223266499598" y="540.0" />
+              <point x="97.84445488721815" y="540.0" />
+              <point x="97.84445488721815" y="424.0" />
+              <point x="109.2517278043594" y="424.0" />
+              <point x="-19.75" y="18.0" />
+            </edge>
+            <edge source="pro.MyPathContainer" target="pro.MyPathContainer">
+              <point x="-59.25" y="18.0" />
+              <point x="69.7517278043594" y="354.0" />
+              <point x="30.001727804359405" y="354.0" />
+              <point x="30.001727804359405" y="316.0" />
+              <point x="-79.0" y="-0.0" />
+            </edge>
+            <edge source="prooo.TransHelper" target="pro.MyNode">
+              <point x="-32.25" y="-18.0" />
+              <point x="481.3986179938482" y="424.0" />
+              <point x="393.0132013271815" y="424.0" />
+              <point x="27.25" y="18.0" />
+            </edge>
+            <edge source="MyRailwaySystem" target="MyRailwaySystem">
+              <point x="0.0" y="18.0" />
+              <point x="513.4996784100402" y="782.0" />
+              <point x="411.99967841004025" y="782.0" />
+              <point x="411.99967841004025" y="744.0" />
+              <point x="-81.5" y="-0.0" />
+            </edge>
+            <edge source="pro.MyPath" target="com.oocourse.specs3.models.Path">
+              <point x="25.75" y="-18.0" />
+              <point x="560.5117476456293" y="162.0" />
+              <point x="526.0117476456293" y="162.0" />
+              <point x="17.0" y="18.0" />
+            </edge>
+            <edge source="proo.GraphHelper" target="proo.GraphHelper">
+              <point x="-44.0" y="18.0" />
+              <point x="201.2517278043594" y="500.0" />
+              <point x="159.2517278043594" y="500.0" />
+              <point x="159.2517278043594" y="462.0" />
+              <point x="-66.0" y="-0.0" />
+            </edge>
+            <edge source="MyRailwaySystem" target="prooo.LeaTicGen">
+              <point x="-29.636363636363626" y="-18.0" />
+              <point x="483.8633147736766" y="676.0" />
+              <point x="443.007283359915" y="676.0" />
+              <point x="30.25" y="18.0" />
+            </edge>
+            <edge source="MyRailwaySystem" target="pro.MyPath">
+              <point x="59.27272727272725" y="-18.0" />
+              <point x="572.7724056827675" y="696.0" />
+              <point x="808.7572833599149" y="696.0" />
+              <point x="808.7572833599149" y="268.0" />
+              <point x="578.9046047884864" y="268.0" />
+              <point x="44.14285714285711" y="18.0" />
+            </edge>
+            <edge source="MyRailwaySystem" target="prooo.TransHelper">
+              <point x="-14.818181818181813" y="-18.0" />
+              <point x="498.68149659185843" y="666.0" />
+              <point x="483.757283359915" y="666.0" />
+              <point x="483.757283359915" y="560.0" />
+              <point x="505.5861179938482" y="560.0" />
+              <point x="-8.0625" y="18.0" />
+            </edge>
+            <edge source="proo.GraphHelper" target="pro.MyPathContainer">
+              <point x="-33.0" y="-18.0" />
+              <point x="212.2517278043594" y="424.0" />
+              <point x="188.2517278043594" y="424.0" />
+              <point x="59.25" y="18.0" />
+            </edge>
+            <edge source="proo.MyGraph" target="pro.MyPath">
+              <point x="-37.66666666666663" y="-18.0" />
+              <point x="191.81667710944043" y="550.0" />
+              <point x="19.501727804359405" y="550.0" />
+              <point x="19.501727804359405" y="258.0" />
+              <point x="505.3331762170578" y="258.0" />
+              <point x="-29.428571428571445" y="18.0" />
+            </edge>
+            <edge source="MyRailwaySystem" target="prooo.LeaUpsetGen">
+              <point x="29.636363636363626" y="-18.0" />
+              <point x="543.1360420464039" y="676.0" />
+              <point x="730.7572833599149" y="676.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="prooo.TransHelper" target="pro.MyPath">
+              <point x="32.25" y="-18.0" />
+              <point x="545.8986179938481" y="424.0" />
+              <point x="550.6246031746032" y="424.0" />
+              <point x="550.6246031746032" y="278.0" />
+              <point x="549.4760333599149" y="278.0" />
+              <point x="14.714285714285722" y="18.0" />
+            </edge>
+            <edge source="MyRailwaySystem" target="prooo.LeaTranGen">
+              <point x="0.0" y="-18.0" />
+              <point x="513.4996784100402" y="656.0" />
+              <point x="526.5072833599149" y="656.0" />
+              <point x="-32.25" y="18.0" />
+            </edge>
+            <edge source="proo.MyGraph" target="com.oocourse.specs3.models.Path">
+              <point x="-50.222222222222285" y="-18.0" />
+              <point x="179.26112155388478" y="560.0" />
+              <point x="0.0" y="560.0" />
+              <point x="0.0" y="152.0" />
+              <point x="475.01174764562927" y="152.0" />
+              <point x="-34.0" y="18.0" />
+            </edge>
+            <edge source="prooo.LeaTranGen" target="pro.MyNode">
+              <point x="43.0" y="-18.0" />
+              <point x="601.7572833599149" y="560.0" />
+              <point x="593.3746031746032" y="560.0" />
+              <point x="593.3746031746032" y="414.0" />
+              <point x="403.91320132718147" y="414.0" />
+              <point x="38.14999999999998" y="18.0" />
+            </edge>
+            <edge source="pro.MyPathContainer" target="com.oocourse.specs3.models.Path">
+              <point x="-52.66666666666663" y="-18.0" />
+              <point x="76.33506113769278" y="162.0" />
+              <point x="492.01174764562927" y="162.0" />
+              <point x="-17.0" y="18.0" />
+            </edge>
+            <edge source="prooo.TransHelper" target="prooo.TransHelper">
+              <point x="-56.4375" y="18.0" />
+              <point x="457.2111179938482" y="500.0" />
+              <point x="429.1486179938482" y="500.0" />
+              <point x="429.1486179938482" y="462.0" />
+              <point x="-64.5" y="-0.0" />
+            </edge>
+            <edge source="com.oocourse.specs3.models.Path" target="java.lang.Comparable">
+              <point x="-21.25" y="-18.0" />
+              <point x="487.76174764562927" y="76.0" />
+              <point x="418.76174764562927" y="76.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="prooo.LeaTicGen" target="pro.MyNode">
+              <point x="-40.33333333333337" y="-18.0" />
+              <point x="372.4239500265816" y="424.0" />
+              <point x="382.1132013271815" y="424.0" />
+              <point x="16.350000000000023" y="18.0" />
+            </edge>
+            <edge source="prooo.LeaUpsetGen" target="prooo.LeaUpsetGen">
+              <point x="-45.0" y="18.0" />
+              <point x="685.7572833599149" y="636.0" />
+              <point x="643.2572833599149" y="636.0" />
+              <point x="643.2572833599149" y="598.0" />
+              <point x="-67.5" y="-0.0" />
+            </edge>
+            <edge source="MyRailwaySystem" target="proo.MyGraph">
+              <point x="-59.27272727272725" y="-18.0" />
+              <point x="454.226951137313" y="696.0" />
+              <point x="267.1500104427737" y="696.0" />
+              <point x="37.66666666666663" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5397590361445787" x="694.0" y="395.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../lib/specs-homework-3-1.3-raw-jar-with-dependencies (1).jar!/com/oocourse/specs3/models/PathContainer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pro/MyPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MyPath#0;class#MyPath#0" />
+            <element signature="method#equals#0;class#MyPath#0" />
+            <element signature="method#getUnpleasantValue#0;class#MyPath#0" />
+            <element signature="method#compareTo#0;class#MyPath#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyRailwaySystemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prooo/LeaUpsetGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#LeaUpsetGen#0;class#LeaUpsetGen#0" />
+            <element signature="method#minDis#0;class#LeaUpsetGen#0" />
+            <element signature="method#pathToMap#0;class#LeaUpsetGen#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pro/MyNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getAdjNode#0;class#MyNode#0" />
+            <element signature="method#addNode#0;class#MyNode#0" />
+            <element signature="method#deleteNode#0;class#MyNode#0" />
+            <element signature="method#getFirst#0;class#MyNode#0" />
+            <element signature="method#equals#0;class#MyNode#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/proo/GraphHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#GraphHelper#0;class#GraphHelper#0" />
+            <element signature="method#fillMap#0;class#GraphHelper#0" />
+            <element signature="method#mapValue#0;class#GraphHelper#0" />
+            <element signature="method#fillAdj#0;class#GraphHelper#0" />
+            <element signature="method#fillDis#0;class#GraphHelper#0" />
+            <element signature="method#minDis#0;class#GraphHelper#0" />
+            <element signature="method#mapInit#0;class#GraphHelper#0" />
+            <element signature="method#isAdjacent#0;class#GraphHelper#0" />
+            <element signature="method#getMinDis#0;class#GraphHelper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prooo/LeaTicGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#minDis#0;class#LeaTicGen#0" />
+            <element signature="e#614#1524#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prooo/LeaTranGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prooo/TransHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#TransHelper#0;class#TransHelper#0" />
+            <element signature="method#initCost#0;class#TransHelper#0" />
+            <element signature="method#resetCost#0;class#TransHelper#0" />
+            <element signature="method#pathToMap#0;class#TransHelper#0" />
+            <element signature="method#floyd#0;class#TransHelper#0" />
+            <element signature="method#travelBfs#0;class#TransHelper#0" />
+            <element signature="method#minDis#0;class#TransHelper#0" />
+            <element signature="method#minDis#1;class#TransHelper#0" />
+            <element signature="method#clear#0;class#TransHelper#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyRailwaySystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="149" column="13" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#MyRailwaySystem#0;class#MyRailwaySystem#0" />
+            <element signature="method#getLeastTicketPrice#0;class#MyRailwaySystem#0" />
+            <element signature="method#getLeastTransferCount#0;class#MyRailwaySystem#0" />
+            <element signature="method#getUnpleasantValue#0;class#MyRailwaySystem#0" />
+            <element signature="method#getLeastUnpleasantValue#0;class#MyRailwaySystem#0" />
+            <element signature="e#2888#2889#0" expanded="true" />
+            <element signature="e#2941#2942#0" expanded="true" />
+            <element signature="e#3001#3002#0" expanded="true" />
+            <element signature="e#3047#3048#0" expanded="true" />
+            <element signature="e#3115#3116#0" expanded="true" />
+            <element signature="e#3165#3166#0" expanded="true" />
+            <element signature="method#isConnected#0;class#MyRailwaySystem#0" />
+            <element signature="method#getShortestPathLength#0;class#MyRailwaySystem#0" />
+            <element signature="e#3557#3558#0" expanded="true" />
+            <element signature="e#3594#3595#0" expanded="true" />
+            <element signature="e#3658#3659#0" expanded="true" />
+            <element signature="e#3707#3708#0" expanded="true" />
+            <element signature="e#3769#3770#0" expanded="true" />
+            <element signature="e#3817#3818#0" expanded="true" />
+            <element signature="method#getPathById#0;class#MyRailwaySystem#0" />
+            <element signature="method#addPath#0;class#MyRailwaySystem#0" />
+            <element signature="method#removePath#0;class#MyRailwaySystem#0" />
+            <element signature="method#removePathById#0;class#MyRailwaySystem#0" />
+            <element signature="e#5119#5120#0" expanded="true" />
+            <element signature="e#5172#5173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Project11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

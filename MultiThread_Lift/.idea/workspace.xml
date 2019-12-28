@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05191e6e-9fd6-41a8-bd14-0603e813d985" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../O9/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O9/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O9/src/MyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../O9/src/MyPathContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project10/generator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/Project11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/MyRailwaySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/MyRailwaySystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/pro/MyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/pro/MyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/pro/MyPathContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/proo/GraphHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/proo/MyGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/prooo/LeaTicGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/prooo/LeaTranGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/prooo/LeaUpsetGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project11/src/prooo/TransHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/MyUmlInteraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/UmlContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/helper/AssociateHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/helper/AttributeHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/helper/InterfaceHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/helper/OprationHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/myuml/MyUmlClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project13/src/myuml/MyUmlInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__com_alibaba_fastjson_1_2_49.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__com_github_javaparser_javaparser_core_3_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__com_github_javaparser_javaparser_core_serialization_3_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__javax_json_javax_json_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__org_apache_bcel_bcel_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlclass/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlclass/classorinterface/MyUmlClassOrInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlsequence/MySeqInterAct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlsequence/MyUmlLifeLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlsequence/SeqQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlstate/MyFinalState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlstate/MyPseudoState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlstate/MyUmlState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlstate/StateMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project14/src/umlstate/StateQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/InvalidRemoveException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/QueryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/SchedulableCarrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/exp_5/src/elevator/UnsortedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/CurrentAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../experiment/final/src/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/observer/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/observer/Bull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/observer/OilFutures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/observer/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Observator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Rate/ExportCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Rate/ImportCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Rate/ObsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Rate/RmbRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Ring/Ring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Ring/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Ring/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Ring/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/Observator/self_defination/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/abstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/color/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/color/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/color/Green.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/color/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/abstractFac/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/Rectangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/ShapeCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../设计模式/DesignPattern/src/creator/prototype/shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Deposit/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Deposit/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Deposit/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/SaleTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/SaleTicket1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/ticket2/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/ticket2/SaleTicket2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/Ticket/ticket2/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/Dispatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/Elevator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/ElevatorConst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/MainDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/OnOff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/request/InputHandle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/request/ReqQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../O4/src/myelevator/request/SingleRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_7_guidebook/面向对象电梯系列第三次指导书.md" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7_guidebook/面向对象电梯系列第三次指导书.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/Source.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/Targetable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/AdapterTest/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/WrapperTest/SourceSub2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/WrapperTest/Sourceable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/WrapperTest/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Adapter/WrapperTest/WrapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/BuilderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Burger/Burger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Burger/NonVegBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Burger/Wrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Burger/vegBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/ColdDrink/Bottle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/ColdDrink/Coke.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/ColdDrink/ColdDrink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/ColdDrink/Pepsi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/Meal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/MealBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Builder/PackUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Decorate/Decorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Decorate/Source.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Decorate/Sourceable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Decorate/TestDeco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/Sender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/factoryMail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/factorySms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/mail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/sms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Factory/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/PageReplace/FIFO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/PageReplace/InputParse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/PageReplace/LRU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/PageReplace/elmForLru.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/SinglePattern/SingleObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/SinglePattern/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/SinglePattern/testSingle.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OO7" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/elevator.Passenger">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>elevator.Passenger</OriginalElement>
+              <nodes />
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="0.9" x="352.1111111111112" y="176.66666666666669" />
+              <SelectedNodes />
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/elevator.ElevatorBase">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>elevator.ElevatorBase</OriginalElement>
+              <nodes>
+                <node x="427.410866910867" y="634.0">elevator.LiftA</node>
+                <node x="238.4006410256411" y="634.0">elevator.LiftB</node>
+                <node x="168.4006410256411" y="252.0">scheduler.Scheduler</node>
+                <node x="20.0" y="96.0">enums.LiftStatus</node>
+                <node x="495.9658119658121" y="252.0">java.lang.Thread</node>
+                <node x="641.9658119658121" y="96.0">enums.LiftType</node>
+                <node x="278.279010828353" y="0.0">enums.DownUp</node>
+                <node x="324.4006410256411" y="96.0">elevator.Passenger</node>
+                <node x="357.1965811965813" y="428.0">elevator.ElevatorBase</node>
+                <node x="488.9658119658121" y="96.0">java.lang.Runnable</node>
+                <node x="107.40064102564108" y="634.0">elevator.LiftC</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="elevator.ElevatorBase" target="java.lang.Thread">
+                  <point x="41.53846153846155" y="-18.0" />
+                  <point x="466.23504273504284" y="388.0" />
+                  <point x="585.0658119658121" y="388.0" />
+                  <point x="39.60000000000002" y="18.0" />
+                </edge>
+                <edge source="scheduler.Scheduler" target="enums.LiftStatus">
+                  <point x="-43.125" y="-18.0" />
+                  <point x="182.7756410256411" y="172.0" />
+                  <point x="125.41666666666669" y="172.0" />
+                  <point x="47.91666666666667" y="18.0" />
+                </edge>
+                <edge source="enums.LiftStatus" target="enums.LiftStatus">
+                  <point x="-47.916666666666686" y="18.0" />
+                  <point x="29.583333333333314" y="152.0" />
+                  <point x="0.0" y="152.0" />
+                  <point x="0.0" y="114.0" />
+                  <point x="-57.5" y="-0.0" />
+                </edge>
+                <edge source="elevator.LiftC" target="elevator.LiftC">
+                  <point x="0.0" y="18.0" />
+                  <point x="152.90064102564108" y="690.0" />
+                  <point x="87.40064102564111" y="690.0" />
+                  <point x="87.40064102564111" y="652.0" />
+                  <point x="-45.5" y="-0.0" />
+                </edge>
+                <edge source="elevator.LiftA" target="elevator.LiftA">
+                  <point x="0.0" y="18.0" />
+                  <point x="472.910866910867" y="690.0" />
+                  <point x="407.410866910867" y="690.0" />
+                  <point x="407.410866910867" y="652.0" />
+                  <point x="-45.5" y="-0.0" />
+                </edge>
+                <edge source="elevator.ElevatorBase" target="scheduler.Scheduler">
+                  <point x="-31.15384615384619" y="-18.0" />
+                  <point x="393.5427350427351" y="368.0" />
+                  <point x="273.8173076923078" y="368.0" />
+                  <point x="47.916666666666686" y="18.0" />
+                </edge>
+                <edge source="scheduler.Scheduler" target="enums.LiftType">
+                  <point x="43.125" y="-18.0" />
+                  <point x="269.0256410256411" y="222.0" />
+                  <point x="665.1086691086692" y="222.0" />
+                  <point x="-30.85714285714289" y="18.0" />
+                </edge>
+                <edge source="elevator.LiftC" target="scheduler.Scheduler">
+                  <point x="-7.583333333333343" y="-18.0" />
+                  <point x="145.31730769230774" y="544.0" />
+                  <point x="160.086913999743" y="544.0" />
+                  <point x="160.086913999743" y="408.0" />
+                  <point x="197.1506410256411" y="408.0" />
+                  <point x="-28.75" y="18.0" />
+                </edge>
+                <edge source="elevator.LiftA" target="scheduler.Scheduler">
+                  <point x="-34.125" y="-18.0" />
+                  <point x="438.785866910867" y="504.0" />
+                  <point x="253.81660079686404" y="504.0" />
+                  <point x="253.81660079686404" y="408.0" />
+                  <point x="235.48397435897442" y="408.0" />
+                  <point x="9.583333333333314" y="18.0" />
+                </edge>
+                <edge source="elevator.ElevatorBase" target="enums.LiftStatus">
+                  <point x="-62.30769230769232" y="-18.0" />
+                  <point x="362.388888888889" y="398.0" />
+                  <point x="88.80769230769238" y="398.0" />
+                  <point x="88.80769230769238" y="172.0" />
+                  <point x="87.08333333333331" y="172.0" />
+                  <point x="9.583333333333314" y="18.0" />
+                </edge>
+                <edge source="elevator.LiftC" target="enums.LiftType">
+                  <point x="37.91666666666666" y="-18.0" />
+                  <point x="190.81730769230774" y="594.0" />
+                  <point x="711.0866910866912" y="594.0" />
+                  <point x="15.428571428571445" y="18.0" />
+                </edge>
+                <edge source="elevator.LiftA" target="enums.LiftType">
+                  <point x="34.125" y="-18.0" />
+                  <point x="507.035866910867" y="614.0" />
+                  <point x="747.3045434098067" y="614.0" />
+                  <point x="747.3045434098067" y="232.0" />
+                  <point x="742.2515262515265" y="232.0" />
+                  <point x="46.285714285714334" y="18.0" />
+                </edge>
+                <edge source="scheduler.Scheduler" target="scheduler.Scheduler">
+                  <point x="-47.916666666666686" y="18.0" />
+                  <point x="177.98397435897442" y="308.0" />
+                  <point x="148.4006410256411" y="308.0" />
+                  <point x="148.4006410256411" y="270.0" />
+                  <point x="-57.5" y="-0.0" />
+                </edge>
+                <edge source="elevator.LiftB" target="enums.LiftStatus">
+                  <point x="-37.91666666666663" y="-18.0" />
+                  <point x="245.98397435897448" y="534.0" />
+                  <point x="66.80769230769238" y="534.0" />
+                  <point x="66.80769230769238" y="232.0" />
+                  <point x="67.91666666666663" y="232.0" />
+                  <point x="-9.583333333333371" y="18.0" />
+                </edge>
+                <edge source="elevator.LiftB" target="elevator.ElevatorBase">
+                  <point x="22.75" y="-18.0" />
+                  <point x="306.6506410256411" y="584.0" />
+                  <point x="443.9822954822956" y="584.0" />
+                  <point x="19.285714285714278" y="18.0" />
+                </edge>
+                <edge source="elevator.ElevatorBase" target="enums.DownUp">
+                  <point x="-20.769230769230774" y="-18.0" />
+                  <point x="403.9273504273506" y="358.0" />
+                  <point x="293.9006410256411" y="358.0" />
+                  <point x="293.9006410256411" y="76.0" />
+                  <point x="319.904010828353" y="76.0" />
+                  <point x="-13.875" y="18.0" />
+                </edge>
+                <edge source="elevator.LiftC" target="elevator.Passenger">
+                  <point x="-22.74999999999997" y="-18.0" />
+                  <point x="130.1506410256411" y="604.0" />
+                  <point x="77.80769230769238" y="604.0" />
+                  <point x="77.80769230769238" y="182.0" />
+                  <point x="343.5673076923078" y="182.0" />
+                  <point x="-38.333333333333314" y="18.0" />
+                </edge>
+                <edge source="elevator.LiftB" target="elevator.LiftB">
+                  <point x="0.0" y="18.0" />
+                  <point x="283.9006410256411" y="690.0" />
+                  <point x="218.4006410256411" y="690.0" />
+                  <point x="218.4006410256411" y="652.0" />
+                  <point x="-45.5" y="-0.0" />
+                </edge>
+                <edge source="elevator.ElevatorBase" target="elevator.ElevatorBase">
+                  <point x="-57.857142857142854" y="18.0" />
+                  <point x="366.83943833943846" y="484.0" />
+                  <point x="337.1965811965813" y="484.0" />
+                  <point x="337.1965811965813" y="446.0" />
+                  <point x="-67.5" y="-0.0" />
+                </edge>
+                <edge source="elevator.LiftB" target="scheduler.Scheduler">
+                  <point x="-7.583333333333314" y="-18.0" />
+                  <point x="276.3173076923078" y="514.0" />
+                  <point x="210.52493413019738" y="514.0" />
+                  <point x="210.52493413019738" y="408.0" />
+                  <point x="216.31730769230776" y="408.0" />
+                  <point x="-9.583333333333343" y="18.0" />
+                </edge>
+                <edge source="enums.DownUp" target="enums.DownUp">
+                  <point x="-41.625" y="18.0" />
+                  <point x="292.154010828353" y="56.0" />
+                  <point x="258.279010828353" y="56.0" />
+                  <point x="258.279010828353" y="18.0" />
+                  <point x="-55.5" y="-0.0" />
+                </edge>
+                <edge source="scheduler.Scheduler" target="elevator.Passenger">
+                  <point x="-14.375" y="-18.0" />
+                  <point x="211.5256410256411" y="202.0" />
+                  <point x="369.12286324786334" y="202.0" />
+                  <point x="-12.777777777777771" y="18.0" />
+                </edge>
+                <edge source="enums.LiftType" target="enums.LiftType">
+                  <point x="-46.28571428571428" y="18.0" />
+                  <point x="649.6800976800978" y="152.0" />
+                  <point x="621.9658119658121" y="152.0" />
+                  <point x="621.9658119658121" y="114.0" />
+                  <point x="-54.0" y="-0.0" />
+                </edge>
+                <edge source="elevator.ElevatorBase" target="elevator.Passenger">
+                  <point x="0.0" y="-18.0" />
+                  <point x="424.6965811965813" y="212.0" />
+                  <point x="407.4561965811967" y="212.0" />
+                  <point x="25.5555555555556" y="18.0" />
+                </edge>
+                <edge source="elevator.LiftB" target="enums.LiftType">
+                  <point x="37.916666666666686" y="-18.0" />
+                  <point x="321.8173076923078" y="604.0" />
+                  <point x="736.3045434098067" y="604.0" />
+                  <point x="736.3045434098067" y="232.0" />
+                  <point x="726.822954822955" y="232.0" />
+                  <point x="30.85714285714289" y="18.0" />
+                </edge>
+                <edge source="elevator.Passenger" target="enums.DownUp">
+                  <point x="-28.75" y="-18.0" />
+                  <point x="353.1506410256411" y="76.0" />
+                  <point x="347.654010828353" y="76.0" />
+                  <point x="13.875" y="18.0" />
+                </edge>
+                <edge source="elevator.LiftC" target="elevator.ElevatorBase">
+                  <point x="22.75" y="-18.0" />
+                  <point x="175.65064102564108" y="564.0" />
+                  <point x="405.41086691086707" y="564.0" />
+                  <point x="-19.285714285714278" y="18.0" />
+                </edge>
+                <edge source="elevator.LiftA" target="elevator.ElevatorBase">
+                  <point x="11.375" y="-18.0" />
+                  <point x="484.285866910867" y="584.0" />
+                  <point x="482.5537240537242" y="584.0" />
+                  <point x="57.85714285714283" y="18.0" />
+                </edge>
+                <edge source="elevator.Passenger" target="elevator.Passenger">
+                  <point x="-51.111111111111114" y="18.0" />
+                  <point x="330.78952991453" y="152.0" />
+                  <point x="304.4006410256411" y="152.0" />
+                  <point x="304.4006410256411" y="114.0" />
+                  <point x="-57.5" y="-0.0" />
+                </edge>
+                <edge source="elevator.LiftC" target="enums.LiftStatus">
+                  <point x="-37.91666666666666" y="-18.0" />
+                  <point x="114.98397435897442" y="614.0" />
+                  <point x="33.855980094466986" y="614.0" />
+                  <point x="33.855980094466986" y="232.0" />
+                  <point x="48.75" y="232.0" />
+                  <point x="-28.75" y="18.0" />
+                </edge>
+                <edge source="java.lang.Thread" target="java.lang.Runnable">
+                  <point x="0.0" y="-18.0" />
+                  <point x="0.0" y="18.0" />
+                </edge>
+                <edge source="java.lang.Thread" target="java.lang.Thread">
+                  <point x="-39.599999999999994" y="18.0" />
+                  <point x="505.8658119658121" y="308.0" />
+                  <point x="475.9658119658121" y="308.0" />
+                  <point x="475.9658119658121" y="282.0" />
+                  <point x="-49.5" y="12.0" />
+                </edge>
+                <edge source="elevator.LiftB" target="elevator.Passenger">
+                  <point x="-22.75" y="-18.0" />
+                  <point x="261.1506410256411" y="524.0" />
+                  <point x="110.19230769230774" y="524.0" />
+                  <point x="110.19230769230774" y="192.0" />
+                  <point x="356.34508547008556" y="192.0" />
+                  <point x="-25.555555555555543" y="18.0" />
+                </edge>
+                <edge source="elevator.ElevatorBase" target="enums.LiftType">
+                  <point x="51.923076923076906" y="-18.0" />
+                  <point x="476.6196581196582" y="398.0" />
+                  <point x="649.6651524644947" y="398.0" />
+                  <point x="649.6651524644947" y="232.0" />
+                  <point x="680.5372405372407" y="232.0" />
+                  <point x="-15.428571428571445" y="18.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.9" x="416.36111111111126" y="228.88888888888889" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/elevator/ElevatorBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding>
+                <element signature="method#ElevatorBase#0;class#ElevatorBase#0" />
+                <element signature="method#run#0;class#ElevatorBase#0" />
+                <element signature="method#sendPerson#0;class#ElevatorBase#0" />
+                <element signature="method#setDirection#0;class#ElevatorBase#0" />
+                <element signature="method#liftMove#0;class#ElevatorBase#0" />
+                <element signature="method#arrive#0;class#ElevatorBase#0" />
+                <element signature="method#pickPerson#0;class#ElevatorBase#0" />
+                <element signature="method#checkArrive#0;class#ElevatorBase#0" />
+                <element signature="method#checkOff#0;class#ElevatorBase#0" />
+                <element signature="method#checkTrans#0;class#ElevatorBase#0" />
+                <element signature="method#setDoor#0;class#ElevatorBase#0" />
+                <element signature="method#checkDir#0;class#ElevatorBase#0" />
+                <element signature="method#open#0;class#ElevatorBase#0" />
+                <element signature="method#close#0;class#ElevatorBase#0" />
+                <element signature="method#upDateDst#0;class#ElevatorBase#0" />
+                <element signature="method#getOn#0;class#ElevatorBase#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scheduler.</find>
+      <find>waitList.add</find>
+      <find>转乘</find>
+      <find>wait</find>
+      <find>notifyAll</find>
+      <find>time</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/request/Scheduler.java" />
+        <option value="$PROJECT_DIR$/src/request/Passenger.java" />
+        <option value="$PROJECT_DIR$/src/enums/status.java" />
+        <option value="$PROJECT_DIR$/src/enums/DownUp.java" />
+        <option value="$PROJECT_DIR$/src/enums/LiftStatus.java" />
+        <option value="$PROJECT_DIR$/src/enums/test.java" />
+        <option value="$PROJECT_DIR$/src/Elevator/liftC.java" />
+        <option value="$PROJECT_DIR$/src/Elevator/liftB.java" />
+        <option value="$PROJECT_DIR$/src/Elevator/liftA.java" />
+        <option value="$PROJECT_DIR$/src/enums/LiftType.java" />
+        <option value="$PROJECT_DIR$/src/Elevator/LiftB.java" />
+        <option value="$PROJECT_DIR$/src/Elevator/LiftA.java" />
+        <option value="$PROJECT_DIR$/src/Elevator/LiftC.java" />
+        <option value="$PROJECT_DIR$/互测/OO_test_elevator/test.py" />
+        <option value="$PROJECT_DIR$/互测/OO_test_elevator/checkout.py" />
+        <option value="$PROJECT_DIR$/互测/OO_test_elevator/generate.py" />
+        <option value="$PROJECT_DIR$/src/Elevator/Passenger.java" />
+        <option value="$PROJECT_DIR$/src/Elevator/ElevatorBase.java" />
+        <option value="$PROJECT_DIR$/src/input.txt" />
+        <option value="$PROJECT_DIR$/src/elevator/LiftC.java" />
+        <option value="$PROJECT_DIR$/src/elevator/ElevatorBase.java" />
+        <option value="$PROJECT_DIR$/src/Scheduler/Scheduler.java" />
+        <option value="$PROJECT_DIR$/src/elevator/LiftB.java" />
+        <option value="$PROJECT_DIR$/src/test.txt" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="363" />
+    <option name="y" value="54" />
+    <option name="width" value="789" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="O7_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="O7_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="O7_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="O7_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="O7_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="O7_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="elevator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="O7_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="O7_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="O7_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="O7_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Scheduler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555654762005" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project11" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OO7" />
+      <option name="PROGRAM_PARAMETERS" value="--debug 2 --debug_show_location --debug_show_thread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enums.test" />
+      <module name="OO7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OO7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/互测/OO_test_elevator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/互测/OO_test_elevator/checkout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OO7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/互测/OO_test_elevator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/互测/OO_test_elevator/generate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OO7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\pyCharm\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/互测/OO_test_elevator" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/互测/OO_test_elevator/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05191e6e-9fd6-41a8-bd14-0603e813d985" name="Default Changelist" comment="" />
+      <created>1555150069146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555150069146</updated>
+      <workItem from="1555150072372" duration="18719000" />
+      <workItem from="1555206034572" duration="20097000" />
+      <workItem from="1555238334368" duration="18040000" />
+      <workItem from="1555319063511" duration="20993000" />
+      <workItem from="1555373651611" duration="3229000" />
+      <workItem from="1555511973021" duration="707000" />
+      <workItem from="1555513281424" duration="396000" />
+      <workItem from="1555554796639" duration="140000" />
+      <workItem from="1555574978196" duration="240000" />
+      <workItem from="1555578598437" duration="113000" />
+      <workItem from="1555581366689" duration="825000" />
+      <workItem from="1555638571066" duration="2709000" />
+      <workItem from="1555642015483" duration="5671000" />
+      <workItem from="1555647813948" duration="7393000" />
+      <workItem from="1557387121419" duration="19000" />
+      <workItem from="1557408377985" duration="56000" />
+      <workItem from="1560927131338" duration="269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="99616000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.19739696" visible="true" weight="0.32790887" />
+      <window_info id="Structure" order="1" sideWeight="0.8034557" side_tool="true" weight="0.24979658" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50159746" side_tool="true" weight="0.2978031" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32945737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.498062" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3003876" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" weight="0.624031" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.17635658" />
+      <window_info anchor="bottom" id="JProfiler" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Python Console" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.23826715" visible="true" weight="0.21318145" />
+      <window_info id="Structure" order="1" sideWeight="0.7617329" side_tool="true" weight="0.2091131" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50159746" side_tool="true" weight="0.2978031" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32945737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46124032" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4631783" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32945737" />
+      <window_info anchor="bottom" id="JProfiler" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>curFloor == 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>type ==LiftType.B</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>type == LiftType.B</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>type == LiftType.B &amp;&amp; curF == 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>reqList</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>reqList.get(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>reqList.get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getMainPerson()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>etMainPerson()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Scheduler/Passenger.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/elevator-input-hw3-1.4-jar-with-dependencies.jar!/com/oocourse/elevator3/PersonRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/enums/LiftStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/DownUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enums/LiftType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/sun/nio/cs/UTF_8.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="512" selection-start-line="512" selection-end-line="512" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3209" selection-start-line="3209" selection-end-line="3209" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/互测/OO_test_elevator/generate.py" />
+    <entry file="file://$PROJECT_DIR$/互测/OO_test_elevator/checkout.py" />
+    <entry file="file://$PROJECT_DIR$/互测/OO_test_elevator/test.py" />
+    <entry file="file://$PROJECT_DIR$/src/saber/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/saber/Elevator.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/oocourse/elevator2/ElevatorInput.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/ElevatorTest.jar!/com/oocourse/elevator2/ElevatorInput.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/ElevatorTest.jar!/com/oocourse/elevator2/PersonRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="31" column="70" lean-forward="true" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/测试3/oo_course_2019_17373290_homework_7/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/elevator/Passenger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding>
+            <element signature="method#Passenger#1;class#Passenger#0" />
+            <element signature="method#setStraight#0;class#Passenger#0" />
+            <element signature="method#setDirection#0;class#Passenger#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elevator/LiftA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elevator/LiftC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="61" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="33" selection-start-line="33" selection-end-line="72" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elevator/LiftB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="23" column="20" lean-forward="true" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scheduler/Scheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="10" column="24" lean-forward="true" selection-end-line="179" />
+          <folding>
+            <element signature="method#getPerson#0;class#Scheduler#0" />
+            <element signature="method#getPassenger#0;class#Scheduler#0" />
+            <element signature="method#getPassenger#1;class#Scheduler#0" />
+            <element signature="method#isWaitGet#0;class#Scheduler#0" />
+            <element signature="method#addPerson#0;class#Scheduler#0" />
+            <element signature="e#5160#5161#0" expanded="true" />
+            <element signature="e#5210#5211#0" expanded="true" />
+            <element signature="method#setInputEnd#0;class#Scheduler#0" />
+            <element signature="method#addPassengers#0;class#Scheduler#0" />
+            <element signature="e#5556#5557#0" expanded="true" />
+            <element signature="e#5589#5590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="25" column="20" lean-forward="true" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/elevator/ElevatorBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="method#ElevatorBase#0;class#ElevatorBase#0" />
+            <element signature="method#run#0;class#ElevatorBase#0" />
+            <element signature="method#sendPerson#0;class#ElevatorBase#0" />
+            <element signature="method#setDirection#0;class#ElevatorBase#0" />
+            <element signature="method#liftMove#0;class#ElevatorBase#0" />
+            <element signature="method#arrive#0;class#ElevatorBase#0" />
+            <element signature="method#pickPerson#0;class#ElevatorBase#0" />
+            <element signature="method#checkArrive#0;class#ElevatorBase#0" />
+            <element signature="method#checkOff#0;class#ElevatorBase#0" />
+            <element signature="method#checkTrans#0;class#ElevatorBase#0" />
+            <element signature="method#setDoor#0;class#ElevatorBase#0" />
+            <element signature="method#checkDir#0;class#ElevatorBase#0" />
+            <element signature="method#open#0;class#ElevatorBase#0" />
+            <element signature="method#close#0;class#ElevatorBase#0" />
+            <element signature="method#upDateDst#0;class#ElevatorBase#0" />
+            <element signature="method#getOn#0;class#ElevatorBase#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/elevator.Passenger">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>elevator.Passenger</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9" x="352.1111111111112" y="176.66666666666669" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/elevator.ElevatorBase">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>elevator.ElevatorBase</OriginalElement>
+          <nodes>
+            <node x="427.410866910867" y="634.0">elevator.LiftA</node>
+            <node x="238.4006410256411" y="634.0">elevator.LiftB</node>
+            <node x="168.4006410256411" y="252.0">scheduler.Scheduler</node>
+            <node x="20.0" y="96.0">enums.LiftStatus</node>
+            <node x="495.9658119658121" y="252.0">java.lang.Thread</node>
+            <node x="641.9658119658121" y="96.0">enums.LiftType</node>
+            <node x="278.279010828353" y="0.0">enums.DownUp</node>
+            <node x="324.4006410256411" y="96.0">elevator.Passenger</node>
+            <node x="357.1965811965813" y="428.0">elevator.ElevatorBase</node>
+            <node x="488.9658119658121" y="96.0">java.lang.Runnable</node>
+            <node x="107.40064102564108" y="634.0">elevator.LiftC</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="elevator.ElevatorBase" target="java.lang.Thread">
+              <point x="41.53846153846155" y="-18.0" />
+              <point x="466.23504273504284" y="388.0" />
+              <point x="585.0658119658121" y="388.0" />
+              <point x="39.60000000000002" y="18.0" />
+            </edge>
+            <edge source="scheduler.Scheduler" target="enums.LiftStatus">
+              <point x="-43.125" y="-18.0" />
+              <point x="182.7756410256411" y="172.0" />
+              <point x="125.41666666666669" y="172.0" />
+              <point x="47.91666666666667" y="18.0" />
+            </edge>
+            <edge source="enums.LiftStatus" target="enums.LiftStatus">
+              <point x="-47.916666666666686" y="18.0" />
+              <point x="29.583333333333314" y="152.0" />
+              <point x="0.0" y="152.0" />
+              <point x="0.0" y="114.0" />
+              <point x="-57.5" y="-0.0" />
+            </edge>
+            <edge source="elevator.LiftC" target="elevator.LiftC">
+              <point x="0.0" y="18.0" />
+              <point x="152.90064102564108" y="690.0" />
+              <point x="87.40064102564111" y="690.0" />
+              <point x="87.40064102564111" y="652.0" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+            <edge source="elevator.LiftA" target="elevator.LiftA">
+              <point x="0.0" y="18.0" />
+              <point x="472.910866910867" y="690.0" />
+              <point x="407.410866910867" y="690.0" />
+              <point x="407.410866910867" y="652.0" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+            <edge source="elevator.ElevatorBase" target="scheduler.Scheduler">
+              <point x="-31.15384615384619" y="-18.0" />
+              <point x="393.5427350427351" y="368.0" />
+              <point x="273.8173076923078" y="368.0" />
+              <point x="47.916666666666686" y="18.0" />
+            </edge>
+            <edge source="scheduler.Scheduler" target="enums.LiftType">
+              <point x="43.125" y="-18.0" />
+              <point x="269.0256410256411" y="222.0" />
+              <point x="665.1086691086692" y="222.0" />
+              <point x="-30.85714285714289" y="18.0" />
+            </edge>
+            <edge source="elevator.LiftC" target="scheduler.Scheduler">
+              <point x="-7.583333333333343" y="-18.0" />
+              <point x="145.31730769230774" y="544.0" />
+              <point x="160.086913999743" y="544.0" />
+              <point x="160.086913999743" y="408.0" />
+              <point x="197.1506410256411" y="408.0" />
+              <point x="-28.75" y="18.0" />
+            </edge>
+            <edge source="elevator.LiftA" target="scheduler.Scheduler">
+              <point x="-34.125" y="-18.0" />
+              <point x="438.785866910867" y="504.0" />
+              <point x="253.81660079686404" y="504.0" />
+              <point x="253.81660079686404" y="408.0" />
+              <point x="235.48397435897442" y="408.0" />
+              <point x="9.583333333333314" y="18.0" />
+            </edge>
+            <edge source="elevator.ElevatorBase" target="enums.LiftStatus">
+              <point x="-62.30769230769232" y="-18.0" />
+              <point x="362.388888888889" y="398.0" />
+              <point x="88.80769230769238" y="398.0" />
+              <point x="88.80769230769238" y="172.0" />
+              <point x="87.08333333333331" y="172.0" />
+              <point x="9.583333333333314" y="18.0" />
+            </edge>
+            <edge source="elevator.LiftC" target="enums.LiftType">
+              <point x="37.91666666666666" y="-18.0" />
+              <point x="190.81730769230774" y="594.0" />
+              <point x="711.0866910866912" y="594.0" />
+              <point x="15.428571428571445" y="18.0" />
+            </edge>
+            <edge source="elevator.LiftA" target="enums.LiftType">
+              <point x="34.125" y="-18.0" />
+              <point x="507.035866910867" y="614.0" />
+              <point x="747.3045434098067" y="614.0" />
+              <point x="747.3045434098067" y="232.0" />
+              <point x="742.2515262515265" y="232.0" />
+              <point x="46.285714285714334" y="18.0" />
+            </edge>
+            <edge source="scheduler.Scheduler" target="scheduler.Scheduler">
+              <point x="-47.916666666666686" y="18.0" />
+              <point x="177.98397435897442" y="308.0" />
+              <point x="148.4006410256411" y="308.0" />
+              <point x="148.4006410256411" y="270.0" />
+              <point x="-57.5" y="-0.0" />
+            </edge>
+            <edge source="elevator.LiftB" target="enums.LiftStatus">
+              <point x="-37.91666666666663" y="-18.0" />
+              <point x="245.98397435897448" y="534.0" />
+              <point x="66.80769230769238" y="534.0" />
+              <point x="66.80769230769238" y="232.0" />
+              <point x="67.91666666666663" y="232.0" />
+              <point x="-9.583333333333371" y="18.0" />
+            </edge>
+            <edge source="elevator.LiftB" target="elevator.ElevatorBase">
+              <point x="22.75" y="-18.0" />
+              <point x="306.6506410256411" y="584.0" />
+              <point x="443.9822954822956" y="584.0" />
+              <point x="19.285714285714278" y="18.0" />
+            </edge>
+            <edge source="elevator.ElevatorBase" target="enums.DownUp">
+              <point x="-20.769230769230774" y="-18.0" />
+              <point x="403.9273504273506" y="358.0" />
+              <point x="293.9006410256411" y="358.0" />
+              <point x="293.9006410256411" y="76.0" />
+              <point x="319.904010828353" y="76.0" />
+              <point x="-13.875" y="18.0" />
+            </edge>
+            <edge source="elevator.LiftC" target="elevator.Passenger">
+              <point x="-22.74999999999997" y="-18.0" />
+              <point x="130.1506410256411" y="604.0" />
+              <point x="77.80769230769238" y="604.0" />
+              <point x="77.80769230769238" y="182.0" />
+              <point x="343.5673076923078" y="182.0" />
+              <point x="-38.333333333333314" y="18.0" />
+            </edge>
+            <edge source="elevator.LiftB" target="elevator.LiftB">
+              <point x="0.0" y="18.0" />
+              <point x="283.9006410256411" y="690.0" />
+              <point x="218.4006410256411" y="690.0" />
+              <point x="218.4006410256411" y="652.0" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+            <edge source="elevator.ElevatorBase" target="elevator.ElevatorBase">
+              <point x="-57.857142857142854" y="18.0" />
+              <point x="366.83943833943846" y="484.0" />
+              <point x="337.1965811965813" y="484.0" />
+              <point x="337.1965811965813" y="446.0" />
+              <point x="-67.5" y="-0.0" />
+            </edge>
+            <edge source="elevator.LiftB" target="scheduler.Scheduler">
+              <point x="-7.583333333333314" y="-18.0" />
+              <point x="276.3173076923078" y="514.0" />
+              <point x="210.52493413019738" y="514.0" />
+              <point x="210.52493413019738" y="408.0" />
+              <point x="216.31730769230776" y="408.0" />
+              <point x="-9.583333333333343" y="18.0" />
+            </edge>
+            <edge source="enums.DownUp" target="enums.DownUp">
+              <point x="-41.625" y="18.0" />
+              <point x="292.154010828353" y="56.0" />
+              <point x="258.279010828353" y="56.0" />
+              <point x="258.279010828353" y="18.0" />
+              <point x="-55.5" y="-0.0" />
+            </edge>
+            <edge source="scheduler.Scheduler" target="elevator.Passenger">
+              <point x="-14.375" y="-18.0" />
+              <point x="211.5256410256411" y="202.0" />
+              <point x="369.12286324786334" y="202.0" />
+              <point x="-12.777777777777771" y="18.0" />
+            </edge>
+            <edge source="enums.LiftType" target="enums.LiftType">
+              <point x="-46.28571428571428" y="18.0" />
+              <point x="649.6800976800978" y="152.0" />
+              <point x="621.9658119658121" y="152.0" />
+              <point x="621.9658119658121" y="114.0" />
+              <point x="-54.0" y="-0.0" />
+            </edge>
+            <edge source="elevator.ElevatorBase" target="elevator.Passenger">
+              <point x="0.0" y="-18.0" />
+              <point x="424.6965811965813" y="212.0" />
+              <point x="407.4561965811967" y="212.0" />
+              <point x="25.5555555555556" y="18.0" />
+            </edge>
+            <edge source="elevator.LiftB" target="enums.LiftType">
+              <point x="37.916666666666686" y="-18.0" />
+              <point x="321.8173076923078" y="604.0" />
+              <point x="736.3045434098067" y="604.0" />
+              <point x="736.3045434098067" y="232.0" />
+              <point x="726.822954822955" y="232.0" />
+              <point x="30.85714285714289" y="18.0" />
+            </edge>
+            <edge source="elevator.Passenger" target="enums.DownUp">
+              <point x="-28.75" y="-18.0" />
+              <point x="353.1506410256411" y="76.0" />
+              <point x="347.654010828353" y="76.0" />
+              <point x="13.875" y="18.0" />
+            </edge>
+            <edge source="elevator.LiftC" target="elevator.ElevatorBase">
+              <point x="22.75" y="-18.0" />
+              <point x="175.65064102564108" y="564.0" />
+              <point x="405.41086691086707" y="564.0" />
+              <point x="-19.285714285714278" y="18.0" />
+            </edge>
+            <edge source="elevator.LiftA" target="elevator.ElevatorBase">
+              <point x="11.375" y="-18.0" />
+              <point x="484.285866910867" y="584.0" />
+              <point x="482.5537240537242" y="584.0" />
+              <point x="57.85714285714283" y="18.0" />
+            </edge>
+            <edge source="elevator.Passenger" target="elevator.Passenger">
+              <point x="-51.111111111111114" y="18.0" />
+              <point x="330.78952991453" y="152.0" />
+              <point x="304.4006410256411" y="152.0" />
+              <point x="304.4006410256411" y="114.0" />
+              <point x="-57.5" y="-0.0" />
+            </edge>
+            <edge source="elevator.LiftC" target="enums.LiftStatus">
+              <point x="-37.91666666666666" y="-18.0" />
+              <point x="114.98397435897442" y="614.0" />
+              <point x="33.855980094466986" y="614.0" />
+              <point x="33.855980094466986" y="232.0" />
+              <point x="48.75" y="232.0" />
+              <point x="-28.75" y="18.0" />
+            </edge>
+            <edge source="java.lang.Thread" target="java.lang.Runnable">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="java.lang.Thread" target="java.lang.Thread">
+              <point x="-39.599999999999994" y="18.0" />
+              <point x="505.8658119658121" y="308.0" />
+              <point x="475.9658119658121" y="308.0" />
+              <point x="475.9658119658121" y="282.0" />
+              <point x="-49.5" y="12.0" />
+            </edge>
+            <edge source="elevator.LiftB" target="elevator.Passenger">
+              <point x="-22.75" y="-18.0" />
+              <point x="261.1506410256411" y="524.0" />
+              <point x="110.19230769230774" y="524.0" />
+              <point x="110.19230769230774" y="192.0" />
+              <point x="356.34508547008556" y="192.0" />
+              <point x="-25.555555555555543" y="18.0" />
+            </edge>
+            <edge source="elevator.ElevatorBase" target="enums.LiftType">
+              <point x="51.923076923076906" y="-18.0" />
+              <point x="476.6196581196582" y="398.0" />
+              <point x="649.6651524644947" y="398.0" />
+              <point x="649.6651524644947" y="232.0" />
+              <point x="680.5372405372407" y="232.0" />
+              <point x="-15.428571428571445" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9" x="416.36111111111126" y="228.88888888888889" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OO7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

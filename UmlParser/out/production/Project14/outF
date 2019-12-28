@@ -1,0 +1,198 @@
+Total class count is 15.
+Ok, attribute count of class "MyRailwaySystem" is 12.
+Ok, top base class of class "MyRailwaySystem" is MyPathContainer.
+Yes, information of class "MyRailwaySystem" is hidden.
+Ok, implement interfaces of class "MyRailwaySystem" are (Graph, PathContainer, RailwaySystem).
+Ok, association count of class "MyRailwaySystem" is 0.
+Ok, associated classes of class "MyRailwaySystem" are ().
+Ok, operation count of class "MyRailwaySystem" is 7.
+Ok, operation count of class "MyRailwaySystem" is 4.
+Ok, operation count of class "MyRailwaySystem" is 3.
+Ok, association count of class "MyRailwaySystem" is 0.
+Ok, operation count of class "MyRailwaySystem" is 6.
+Ok, operation count of class "MyRailwaySystem" is 1.
+Ok, operation visibility of method "MyRailwaySystem" in class "MyRailwaySystem" is public: 1,protected: 0,private: 0,package-private: 0.
+Failed when check R003, class/interface (Class3, Class5, Class6, Interface4) have duplicate inheritance.
+Failed when check R003, class/interface (Class2, Class3, Class4) have duplicate inheritance.
+Failed when check R003, class/interface (Class3, Class4, Interface5, Interface6) have duplicate inheritance.
+Failed when check R003, class/interface (Class1, Class2, Class3, Class4, Class5, Class6) have duplicate inheritance.
+Total class count is 6.
+Ok, operation count of class "Class1" is 0.
+Ok, operation count of class "Class1" is 0.
+Ok, operation count of class "Class1" is 0.
+Ok, attribute count of class "Class1" is 0.
+Ok, attribute count of class "Class1" is 0.
+Ok, top base class of class "Class1" is Class1.
+Ok, implement interfaces of class "Class1" are (Interface1, Interface4).
+Yes, information of class "Class1" is hidden.
+Ok, association count of class "Class1" is 0.
+Ok, associated classes of class "Class1" are ().
+Ok, operation count of class "Class2" is 0.
+Ok, operation count of class "Class2" is 0.
+Ok, operation count of class "Class2" is 0.
+Ok, attribute count of class "Class2" is 0.
+Ok, attribute count of class "Class2" is 0.
+Ok, top base class of class "Class2" is Class1.
+Ok, implement interfaces of class "Class2" are (Interface1, Interface4).
+Yes, information of class "Class2" is hidden.
+Ok, association count of class "Class2" is 3.
+Ok, associated classes of class "Class2" are (Class2, Class3).
+Ok, operation count of class "Class3" is 0.
+Ok, operation count of class "Class3" is 0.
+Ok, operation count of class "Class3" is 0.
+Ok, attribute count of class "Class3" is 0.
+Ok, attribute count of class "Class3" is 0.
+Ok, top base class of class "Class3" is Class3.
+Ok, implement interfaces of class "Class3" are (Interface1, Interface3).
+Yes, information of class "Class3" is hidden.
+Ok, association count of class "Class3" is 1.
+Ok, associated classes of class "Class3" are (Class2).
+Failed, attribute "b" not found in class "Class3".
+Ok, operation count of class "Class4" is 0.
+Ok, operation count of class "Class4" is 0.
+Ok, operation count of class "Class4" is 0.
+Ok, attribute count of class "Class4" is 0.
+Ok, attribute count of class "Class4" is 0.
+Ok, top base class of class "Class4" is Class1.
+Ok, implement interfaces of class "Class4" are (Interface1, Interface4).
+Yes, information of class "Class4" is hidden.
+Ok, association count of class "Class4" is 5.
+Ok, associated classes of class "Class4" are (Class2, Class3, Class4).
+Ok, operation count of class "Class5" is 0.
+Ok, operation count of class "Class5" is 0.
+Ok, operation count of class "Class5" is 0.
+Ok, attribute count of class "Class5" is 0.
+Ok, attribute count of class "Class5" is 0.
+Ok, top base class of class "Class5" is Class1.
+Ok, implement interfaces of class "Class5" are (Interface1, Interface4).
+Yes, information of class "Class5" is hidden.
+Ok, association count of class "Class5" is 5.
+Ok, associated classes of class "Class5" are (Class2, Class3, Class5).
+Ok, operation count of class "Class6" is 0.
+Ok, operation count of class "Class6" is 0.
+Ok, operation count of class "Class6" is 0.
+Ok, attribute count of class "Class6" is 0.
+Ok, attribute count of class "Class6" is 0.
+Ok, top base class of class "Class6" is Class1.
+Ok, implement interfaces of class "Class6" are (Interface1, Interface4).
+Yes, information of class "Class6" is hidden.
+Ok, association count of class "Class6" is 5.
+Ok, associated classes of class "Class6" are (Class2, Class3, Class6).
+Failed when check R003, class/interface (C3, C4, I5) have duplicate inheritance.
+Failed when check R003, class/interface (C3, C4, I5) have duplicate inheritance.
+Failed when check R003, class/interface (C3, C4, C6, C7, C8, C9, I5) have duplicate inheritance.
+Failed when check R003, class/interface (C3, C4, I5) have duplicate inheritance.
+Failed when check R003, class/interface (Class1, Class2, Class3, Interface1, Interface10, Interface2, Interface3, Interface4, Interface5, Interface8, Interface9) have duplicate inheritance.
+Failed when check R003, class/interface (Class1, Class2, Class3, Interface1, Interface10, Interface2, Interface3, Interface4, Interface5, Interface8, Interface9) have duplicate inheritance.
+Total class count is 10.
+Ok, operation count of class "C1" is 5.
+Ok, operation count of class "C1" is 4.
+Ok, operation count of class "C1" is 2.
+Ok, attribute count of class "C1" is 3.
+Ok, attribute count of class "C1" is 3.
+Ok, top base class of class "C1" is C1.
+Ok, implement interfaces of class "C1" are ().
+Yes, information of class "C1" is hidden.
+Ok, association count of class "C1" is 3.
+Ok, associated classes of class "C1" are (C3, C4).
+Ok, attribute "a" in class "C1"'s visibility is private.
+Failed, attribute "dd" not found in class "C1".
+Failed, attribute "self" not found in class "C1".
+Ok, attribute "b" in class "C1"'s visibility is private.
+Ok, operation visibility of method "C1" in class "C1" is public: 1,protected: 0,private: 0,package-private: 3.
+Ok, operation visibility of method "getA" in class "C1" is public: 0,protected: 0,private: 0,package-private: 1.
+Ok, operation count of class "C2" is 3.
+Ok, operation count of class "C2" is 3.
+Ok, operation count of class "C2" is 0.
+Ok, attribute count of class "C2" is 3.
+Ok, attribute count of class "C2" is 3.
+Ok, top base class of class "C2" is C2.
+Ok, implement interfaces of class "C2" are ().
+Yes, information of class "C2" is hidden.
+Ok, association count of class "C2" is 4.
+Ok, associated classes of class "C2" are (C4, C5).
+Ok, attribute "a" in class "C2"'s visibility is private.
+Failed, attribute "dd" not found in class "C2".
+Failed, attribute "self" not found in class "C2".
+Ok, attribute "b" in class "C2"'s visibility is private.
+Ok, operation visibility of method "C2" in class "C2" is public: 1,protected: 0,private: 0,package-private: 2.
+Ok, operation visibility of method "getA" in class "C2" is public: 0,protected: 0,private: 0,package-private: 0.
+Ok, operation count of class "C3" is 3.
+Ok, operation count of class "C3" is 3.
+Ok, operation count of class "C3" is 1.
+Ok, attribute count of class "C3" is 3.
+Ok, attribute count of class "C3" is 3.
+Ok, top base class of class "C3" is C3.
+Ok, implement interfaces of class "C3" are ().
+Yes, information of class "C3" is hidden.
+Ok, association count of class "C3" is 6.
+Ok, associated classes of class "C3" are (C1, C3, C4, C5).
+Ok, attribute "a" in class "C3"'s visibility is private.
+Failed, attribute "dd" not found in class "C3".
+Failed, attribute "self" not found in class "C3".
+Ok, attribute "b" in class "C3"'s visibility is private.
+Ok, operation visibility of method "C3" in class "C3" is public: 1,protected: 0,private: 2,package-private: 0.
+Ok, operation visibility of method "getA" in class "C3" is public: 0,protected: 0,private: 0,package-private: 0.
+Ok, operation count of class "C4" is 3.
+Ok, operation count of class "C4" is 3.
+Ok, operation count of class "C4" is 0.
+Ok, attribute count of class "C4" is 3.
+Ok, attribute count of class "C4" is 3.
+Ok, top base class of class "C4" is C4.
+Ok, implement interfaces of class "C4" are ().
+Yes, information of class "C4" is hidden.
+Ok, association count of class "C4" is 5.
+Ok, associated classes of class "C4" are (C1, C2, C3).
+Ok, attribute "a" in class "C4"'s visibility is private.
+Failed, attribute "dd" not found in class "C4".
+Failed, attribute "self" not found in class "C4".
+Ok, attribute "b" in class "C4"'s visibility is private.
+Ok, operation visibility of method "C4" in class "C4" is public: 1,protected: 0,private: 0,package-private: 2.
+Ok, operation visibility of method "getA" in class "C4" is public: 0,protected: 0,private: 0,package-private: 0.
+Ok, operation count of class "C5" is 3.
+Ok, operation count of class "C5" is 3.
+Ok, operation count of class "C5" is 0.
+Ok, attribute count of class "C5" is 3.
+Ok, attribute count of class "C5" is 3.
+Ok, top base class of class "C5" is C5.
+Ok, implement interfaces of class "C5" are ().
+Yes, information of class "C5" is hidden.
+Ok, association count of class "C5" is 4.
+Ok, associated classes of class "C5" are (C2, C3).
+Ok, attribute "a" in class "C5"'s visibility is private.
+Failed, attribute "dd" not found in class "C5".
+Failed, attribute "self" not found in class "C5".
+Ok, attribute "b" in class "C5"'s visibility is private.
+Ok, operation visibility of method "C5" in class "C5" is public: 1,protected: 0,private: 0,package-private: 2.
+Ok, operation visibility of method "getA" in class "C5" is public: 0,protected: 0,private: 0,package-private: 0.
+Ok, operation count of class "C6" is 5.
+Ok, operation count of class "C6" is 2.
+Ok, operation count of class "C6" is 4.
+Ok, attribute count of class "C6" is 3.
+Ok, attribute count of class "C6" is 0.
+Ok, top base class of class "C6" is C1.
+Ok, implement interfaces of class "C6" are ().
+Yes, information of class "C6" is hidden.
+Ok, association count of class "C6" is 3.
+Ok, associated classes of class "C6" are (C3, C4).
+Ok, attribute "a" in class "C6"'s visibility is private.
+Failed, attribute "dd" not found in class "C6".
+Failed, attribute "self" not found in class "C6".
+Ok, attribute "b" in class "C6"'s visibility is private.
+Ok, operation visibility of method "C6" in class "C6" is public: 2,protected: 0,private: 0,package-private: 0.
+Ok, operation visibility of method "getA" in class "C6" is public: 0,protected: 0,private: 0,package-private: 1.
+Ok, operation count of class "C7" is 0.
+Ok, operation count of class "C7" is 0.
+Ok, operation count of class "C7" is 0.
+Ok, attribute count of class "C7" is 5.
+Ok, attribute count of class "C7" is 2.
+Ok, top base class of class "C7" is C1.
+Ok, implement interfaces of class "C7" are ().
+No, attribute a in C7, b in C7, are not hidden.
+Ok, association count of class "C7" is 5.
+Ok, associated classes of class "C7" are (C3, C4, C7).
+Failed, duplicated attribute "a" in class "C7".
+Failed, duplicated attribute "b" in class "C7".
+Ok, operation visibility of method "C7" in class "C7" is public: 0,protected: 0,private: 0,package-private: 0.
+Ok, operation visibility of method "getA" in class "C7" is public: 0,protected: 0,private: 0,package-private: 0.
+Failed when check R003, class/interface (C7, Interface1) have duplicate inheritance.
